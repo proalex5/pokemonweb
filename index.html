@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Torneo Pokémon - Panel de Entrenador</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>ESTADÍSTICAS DEL TORNEO</h1>
+        <div class="user-selector">
+            <label for="perfil-selector">Entrenador:</label>
+            <select id="perfil-selector">
+                <option value="">Cargando entrenadores...</option>
+            </select>
+        </div>
+    </header>
+
+    <main id="stats-container" class="hidden">
+        <section class="card">
+            <h2>Datos de <span id="display-nombre">---</span></h2>
+            <div class="stat-grid">
+                <div class="stat-item">
+                    <span class="label">Puntos:</span>
+                    <span id="display-puntos" class="value">0</span>
+                </div>
+                <div class="stat-item">
+                    <span class="label">Vidas:</span>
+                    <span id="display-vidas" class="value">0</span>
+                </div>
+            </div>
+        </section>
+
+        <section class="actions">
+            <button id="btn-gachapon" class="btn-poke">🎰 Girar Gachapon</button>
+        </section>
+        
+        <div id="resultado-gachapon" class="resultado-box hidden">
+            <div class="pokemon-info">
+                <h3 id="poke-nombre">¡Ha aparecido un Pokémon!</h3>
+                <img id="poke-img" src="" alt="Pokemon">
+                <p id="poke-habilidad"></p>
+                <button id="btn-cerrar-resultado">Aceptar</button>
+            </div>
+        </div>
+    </main>
+
+    <script type="module" src="script.js"></script>
+</body>
+</html>

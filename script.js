@@ -1,41 +1,75 @@
-// Importamos lo necesario de Firebase
-import { initializeApp } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-app.js";
-import { getDatabase, ref, push, set } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-database.js";
+// 1. Importar las herramientas necesarias de Firebase
+import { initializeApp } from "https://www.gstatic.com/firebasejs/10.8.1/firebase-app.js";
+import { getDatabase, ref, onValue, update } from "https://www.gstatic.com/firebasejs/10.8.1/firebase-database.js";
 
-// Tu configuración (la verás al registrar tu app web en el panel de Firebase)
+// 2. Tu configuración (La llave maestra)
 const firebaseConfig = {
-    apiKey: "TU_API_KEY",
-    databaseURL: "https://torneopokemon-XXXX.firebaseio.com",
-    projectId: "torneopokemon-XXXX",
-    appId: "TU_APP_ID"
+  apiKey: "AIzaSyC9UfW6Tnnig9a5B-E0Nu73Mhro2ck-XHo",
+  authDomain: "torneopokemon-86318.firebaseapp.com",
+  databaseURL: "https://torneopokemon-86318-default-rtdb.europe-west1.firebasedatabase.app",
+  projectId: "torneopokemon-86318",
+  storageBucket: "torneopokemon-86318.firebasestorage.app",
+  messagingSenderId: "682695753268",
+  appId: "1:682695753268:web:9aedbdb22bf1561dc69461"
 };
 
+// 3. Inicializar Firebase
 const app = initializeApp(firebaseConfig);
 const db = getDatabase(app);
 
-// Función para el Gachapon usando tus JSON locales
-async function girarGachapon(idCliente) {
-    try {
-        // 1. Leemos tus Pokémon locales
-        const response = await fetch('pokemon.json');
-        const listaPokemon = await response.json();
-        
-        // 2. Elegimos uno al azar (Lógica de tu bot)
-        const pkm = listaPokemon[Math.floor(Math.random() * listaPokemon.length)];
-        const habs = ['mutatipo', 'pelaje recio', 'potencia']; // Puedes crear un habilidades.json también
-        const hab = habs[Math.floor(Math.random() * habs.length)];
+// Referencias a los elementos del HTML
+const selector = document.getElementById('perfil-selector');
+const statsContainer = document.getElementById('stats-container');
+const displayNombre = document.getElementById('display-nombre');
+const displayPuntos = document.getElementById('display-puntos');
+const displayVidas = document.getElementById('display-vidas');
 
-        // 3. Guardamos en Firebase (Tu tabla 'gachapon' del esquema SQL)
-        const nuevaEntradaRef = push(ref(db, 'gachapon'));
-        await set(nuevaEntradaRef, {
-            id_cliente: idCliente,
-            nombre: pkm,
-            habilidad: hab,
-            fecha: new Date().toISOString()
-        });
-
-        alert(`¡Te ha tocado un ${pkm} con ${hab}!`);
-    } catch (error) {
-        console.error("Error:", error);
+// --- FUNCIÓN A: LLENAR EL SELECTOR AUTOMÁTICAMENTE ---
+onValue(ref(db, 'Clientes'), (snapshot) => {
+    const usuarios = snapshot.val();
+    // Guardamos la opción por defecto
+    selector.innerHTML = '<option value="">Selecciona tu perfil</option>';
+    
+    for (let id in usuarios) {
+        let opt = document.createElement('option');
+        opt.value = id; // Esto será "alex" o "jaime"
+        opt.textContent = usuarios[id].nombre; // Esto será "Alex" o "Jaime"
+        selector.appendChild(opt);
     }
-}
+});
+
+// --- FUNCIÓN B: CARGAR DATOS CUANDO SE ELIGE USUARIO ---
+selector.addEventListener('change', (e) => {
+    const userId = e.target.value;
+    
+    if (userId === "") {
+        statsContainer.classList.add('hidden');
+        return;
+    }
+
+    // Escuchamos los cambios del usuario elegido en tiempo real
+    const usuarioRef = ref(db, `Clientes/${userId}`);
+    onValue(usuarioRef, (snapshot) => {
+        const data = snapshot.val();
+        if (data) {
+            displayNombre.textContent = data.nombre;
+            displayPuntos.textContent = data.puntos;
+            displayVidas.textContent = data.vidas;
+            statsContainer.classList.remove('hidden');
+        }
+    });
+});
+
+// --- FUNCIÓN C: EL BOTÓN GACHAPON (LÓGICA INICIAL) ---
+document.getElementById('btn-gachapon').addEventListener('click', () => {
+    const userId = selector.value;
+    const vidasActuales = parseInt(displayVidas.textContent);
+
+    if (vidasActuales > 0) {
+        alert("¡Girando Gachapon! (Aquí conectaremos la PokéAPI después)");
+        // Ejemplo de cómo restar una vida en Firebase:
+        // update(ref(db, `Clientes/${userId}`), { vidas: vidasActuales - 1 });
+    } else {
+        alert("¡No te quedan vidas!");
+    }
+});
