@@ -1,104 +1,146 @@
-@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=VT323&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
 
 :root {
-    --poke-red: #e3350d;
-    --poke-blue: #3166b1;
-    --poke-yellow: #ffcb05;
-    --poke-dark-blue: #2a4071;
-    --white: #ffffff;
-    --bg-color: #f0f0f0;
+    --primary: #4f46e5; /* Un azul índigo moderno */
+    --bg-gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    --glass: rgba(255, 255, 255, 0.9);
+    --text: #1f2937;
 }
 
 body {
     font-family: 'VT323', monospace;
-    background-color: var(--bg-color);
+    background: var(--bg-gradient);
+    background-attachment: fixed;
+    height: 100vh;
     margin: 0;
-    overflow-x: hidden;
-}
-
-/* Animación de entrada para las tarjetas */
-@keyframes fadeInUp {
-    from { opacity: 0; transform: translateY(20px); }
-    to { opacity: 1; transform: translateY(0); }
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: var(--text);
 }
 
 header {
-    background: linear-gradient(180deg, var(--poke-red) 0%, #b32a0a 100%);
-    color: white;
     width: 100%;
-    padding: 30px 0;
+    padding: 2rem 0;
     text-align: center;
-    box-shadow: 0 6px 0 #000;
-    border-bottom: 8px solid #333;
-}
-
-h1 {
-    font-family: 'Press+Start+2P', cursive;
-    font-size: 1.2rem;
-    text-shadow: 3px 3px 0px #000;
-    margin: 0;
+    color: white;
+    letter-spacing: 2px;
 }
 
 .card {
-    background: white;
-    border: 4px solid #333;
-    border-radius: 15px;
-    padding: 25px;
-    margin: 40px auto;
-    width: 320px;
-    box-shadow: 10px 10px 0px rgba(0,0,0,0.1);
-    animation: fadeInUp 0.6s ease-out;
+    background: var(--glass);
+    backdrop-filter: blur(10px);
+    border-radius: 20px;
+    padding: 2rem;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+    width: 350px;
+    text-align: center;
+    border: 1px solid rgba(255,255,255,0.3);
+    animation: fadeIn 0.8s ease-out;
 }
 
-/* Estilo de los Inputs */
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
 input {
-    width: 90%;
-    padding: 12px;
-    margin: 10px 0;
-    border: 3px solid #333;
+    width: 80%;
+    padding: 0.8rem;
+    margin: 0.5rem 0;
+    border: 1px solid #ddd;
+    border-radius: 10px;
     font-family: 'VT323', monospace;
-    font-size: 1.4rem;
-    border-radius: 8px;
+    font-size: 1.2rem;
+    outline: none;
+    transition: 0.3s;
 }
 
-/* Botón Estilo GameBoy */
-.btn-poke {
-    background-color: var(--poke-yellow);
-    border: 4px solid var(--poke-blue);
-    padding: 12px 25px;
-    font-family: 'Press+Start+2P', cursive;
-    font-size: 0.7rem;
-    color: var(--poke-dark-blue);
+input:focus { border-color: var(--primary); box-shadow: 0 0 8px rgba(79, 70, 229, 0.3); }
+
+.btn-modern {
+    background: var(--primary);
+    color: white;
+    border: none;
+    padding: 10px 25px;
+    border-radius: 12px;
+    font-family: 'VT323', monospace;
+    font-size: 1.3rem;
     cursor: pointer;
-    transition: all 0.1s;
-    box-shadow: 4px 4px 0px var(--poke-dark-blue);
-    margin-top: 15px;
+    transition: 0.3s;
+    margin-top: 1rem;
 }
 
-.btn-poke:hover {
-    transform: translate(-2px, -2px);
-    box-shadow: 6px 6px 0px var(--poke-dark-blue);
-    background-color: #ffe066;
+.btn-modern:hover {
+    transform: scale(1.05);
+    background: #4338ca;
 }
 
-.btn-poke:active {
-    transform: translate(2px, 2px);
-    box-shadow: 0px 0px 0px var(--poke-dark-blue);
-}
+.hidden { display: none; }
 
-/* Tabla de clasificación animada */
+/* Estilo para la tabla de puntos */
 .user-row {
     display: flex;
     justify-content: space-between;
-    padding: 10px;
-    border-bottom: 2px dashed #ccc;
-    font-size: 1.6rem;
-    transition: background 0.3s;
+    padding: 8px 15px;
+    background: rgba(255,255,255,0.5);
+    margin: 5px 0;
+    border-radius: 8px;
 }
 
-.user-row:hover {
-    background: #fff9e6;
+/* ... (mantiene lo anterior y añade esto) ... */
+
+.user-nav {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    z-index: 100;
 }
 
-.label { color: #888; font-size: 1rem; text-transform: uppercase; }
-.value { font-weight: bold; color: var(--poke-blue); }
+.user-profile {
+    background: var(--glass);
+    padding: 10px 20px;
+    border-radius: 30px;
+    cursor: pointer;
+    border: 1px solid rgba(255,255,255,0.5);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    transition: 0.3s;
+}
+
+.user-profile:hover {
+    background: white;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.dropdown-menu {
+    position: absolute;
+    top: 50px;
+    right: 0;
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+    width: 150px;
+    overflow: hidden;
+    display: none; /* Se activa con JS */
+    flex-direction: column;
+}
+
+.dropdown-menu button {
+    background: none;
+    border: none;
+    padding: 12px;
+    font-family: 'VT323', monospace;
+    font-size: 1.1rem;
+    cursor: pointer;
+    text-align: left;
+    transition: 0.2s;
+}
+
+.dropdown-menu button:hover {
+    background: #f3f4f6;
+    color: var(--primary);
+}
+
+.show { display: flex !important; }

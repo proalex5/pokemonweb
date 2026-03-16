@@ -2,22 +2,35 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>PokéTorneo - Clasificación</title>
+    <title>Torneo - Inicio</title>
     <link rel="stylesheet" href="styles.css">
-    <script type="module" src="index.js"></script>
 </head>
 <body>
+    <div class="user-nav">
+        <button id="btn-to-login" class="btn-modern" onclick="window.location.href='login.html'">ENTRAR</button>
+        
+        <div id="user-area" class="hidden">
+            <div class="user-profile" id="profile-trigger">
+                <span>Hola, <strong id="user-name-display">...</strong></span>
+                <small>▼</small>
+            </div>
+            <div class="dropdown-menu" id="user-dropdown">
+                <button onclick="window.location.href='panel.html'">Ir al Panel</button>
+                <button id="btn-logout" style="color: #ef4444;">Cerrar Sesión</button>
+            </div>
+        </div>
+    </div>
+
     <header>
-        <h1>RANKING DEL TORNEO</h1>
-        <button onclick="window.location.href='login.html'" class="btn-poke" style="font-size: 0.5rem;">LOGIN ENTRENADOR</button>
+        <h1>RANKING GENERAL</h1>
     </header>
 
     <main>
         <div class="card">
-            <h2 style="font-family: 'Press+Start+2P'; font-size: 0.8rem; margin-bottom: 20px; color: var(--poke-red);">TOP ENTRENADORES</h2>
-            <div id="tabla-puntos">
-                </div>
+            <h2>CLASIFICACIÓN</h2>
+            <div id="tabla-puntos"></div>
         </div>
     </main>
+    <script type="module" src="index.js"></script>
 </body>
 </html>

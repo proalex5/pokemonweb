@@ -42,7 +42,7 @@ document.getElementById('btn-entrar').onclick = async () => {
                 // Guardamos la sesión localmente
                 localStorage.setItem('entrenadorId', u); 
                 // Redirigimos al panel
-                window.location.href = 'panel.html';
+                window.location.href = 'index.html';
             } else {
                 errorMsg.textContent = "¡CONTRASEÑA INCORRECTA!";
                 errorMsg.style.display = 'block';
