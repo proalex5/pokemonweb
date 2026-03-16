@@ -2,35 +2,50 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Torneo - Inicio</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Peluking - Torneos</title>
     <link rel="stylesheet" href="styles.css">
+    <script type="module" src="index.js"></script>
 </head>
 <body>
-    <div class="user-nav">
-        <button id="btn-to-login" class="btn-modern" onclick="window.location.href='login.html'">ENTRAR</button>
-        
-        <div id="user-area" class="hidden">
-            <div class="user-profile" id="profile-trigger">
-                <span>Hola, <strong id="user-name-display">...</strong></span>
-                <small>▼</small>
-            </div>
-            <div class="dropdown-menu" id="user-dropdown">
-                <button onclick="window.location.href='panel.html'">Ir al Panel</button>
-                <button id="btn-logout" style="color: #ef4444;">Cerrar Sesión</button>
+    <nav class="user-nav">
+        <div class="logo">Peluking</div>
+        <div id="auth-section">
+            <button id="btn-login" class="btn-nav" onclick="window.location.href='login.html'">Entrar</button>
+            <div id="user-menu" class="hidden">
+                <div class="profile-pill" id="profile-trigger">
+                    <span id="display-name">Entrenador</span> <small>▼</small>
+                </div>
+                <div class="dropdown" id="dropdown">
+                    <button onclick="window.location.href='panel.html'">Mi Panel</button>
+                    <button id="logout-btn" class="danger">Cerrar Sesión</button>
+                </div>
             </div>
         </div>
+    </nav>
+
+    <main id="main-view" class="container">
+        <section class="main-card ranking-card">
+            <div class="card-content">
+                <h2>🏆 Ranking Total</h2>
+                <p>Puntos acumulados históricos</p>
+                <button class="btn-action" id="view-ranking-btn">Ver Ranking</button>
+            </div>
+        </section>
+
+        <section class="main-card torneos-card">
+            <div class="card-content">
+                <h2>🎮 Torneos</h2>
+                <p>Clasificaciones por edición</p>
+                <button class="btn-action" id="view-torneos-btn">Ver Torneos</button>
+            </div>
+        </section>
+    </main>
+
+    <div id="detail-view" class="detail-container hidden">
+        <button class="btn-back" id="back-btn">← Volver al inicio</button>
+        <div id="dynamic-content"></div>
     </div>
 
-    <header>
-        <h1>RANKING GENERAL</h1>
-    </header>
-
-    <main>
-        <div class="card">
-            <h2>CLASIFICACIÓN</h2>
-            <div id="tabla-puntos"></div>
-        </div>
-    </main>
-    <script type="module" src="index.js"></script>
 </body>
 </html>

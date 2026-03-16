@@ -2,21 +2,28 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Identificación - PokéTorneo</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Acceso Entrenador - Peluking</title>
     <link rel="stylesheet" href="styles.css">
     <script type="module" src="login.js"></script>
 </head>
-<body>
-    <header><h1>ACCESO PRIVADO</h1></header>
-    <main>
-        <div class="card" style="text-align: center;">
-            <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="50">
-            <h2 style="font-family: 'Press Start 2P'; font-size: 0.7rem;">¿QUIÉN ERES?</h2>
-            <input type="text" id="user" placeholder="ENTRENADOR">
-            <input type="password" id="pass" placeholder="PASSWORD">
-            <button id="btn-entrar" class="btn-poke">CONECTAR</button>
-            <p id="error" style="color:red; display:none; font-weight: bold; margin-top: 10px;">¡DATOS ERRÓNEOS!</p>
+<body class="flex-center">
+    <div class="main-card login-box">
+        <div class="logo" style="margin-bottom: 20px;">Peluking</div>
+        <h2>ACCESO PRIVADO</h2>
+        <p>Introduce tus credenciales de entrenador</p>
+        
+        <div class="input-group">
+            <input type="text" id="user" placeholder="Usuario" autocomplete="off">
+            <input type="password" id="pass" placeholder="Contraseña">
         </div>
-    </main>
+
+        <button id="btn-entrar" class="btn-action" style="width: 100%;">CONECTAR</button>
+        
+        <p id="error" class="error-text hidden">¡Datos incorrectos!</p>
+        
+        <a href="index.html" class="link-back">← Volver al Ranking</a>
+    </div>
+
 </body>
 </html>
