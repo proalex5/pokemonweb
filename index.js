@@ -18,7 +18,15 @@ onValue(ref(db, 'Clientes'), (snapshot) => {
     const usuarios = snapshot.val();
     const tabla = document.getElementById('tabla-puntos');
     tabla.innerHTML = "";
+    
+    // Generar las filas con clases CSS para animación
     for (let id in usuarios) {
-        tabla.innerHTML += `<p><strong>${usuarios[id].nombre}:</strong> ${usuarios[id].puntos} pts</p>`;
+        const div = document.createElement('div');
+        div.className = 'user-row';
+        div.innerHTML = `
+            <span>${usuarios[id].nombre}</span>
+            <span class="value">${usuarios[id].puntos} PTS</span>
+        `;
+        tabla.appendChild(div);
     }
 });

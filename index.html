@@ -2,20 +2,22 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Torneo Pokémon - Inicio</title>
+    <title>PokéTorneo - Clasificación</title>
     <link rel="stylesheet" href="styles.css">
-        <script type="module" src="index.js"></script>
+    <script type="module" src="index.js"></script>
 </head>
 <body>
     <header>
-        <h1>ESTADÍSTICAS DEL TORNEO</h1>
-        <button onclick="window.location.href='login.html'" class="btn-poke" style="padding: 5px 15px; font-size: 0.8rem;">Área Entrenadores</button>
+        <h1>RANKING DEL TORNEO</h1>
+        <button onclick="window.location.href='login.html'" class="btn-poke" style="font-size: 0.5rem;">LOGIN ENTRENADOR</button>
     </header>
+
     <main>
-        <section class="card">
-            <h2>Clasificación Actual</h2>
-            <div id="tabla-puntos"><p>Cargando clasificación...</p></div>
-        </section>
+        <div class="card">
+            <h2 style="font-family: 'Press+Start+2P'; font-size: 0.8rem; margin-bottom: 20px; color: var(--poke-red);">TOP ENTRENADORES</h2>
+            <div id="tabla-puntos">
+                </div>
+        </div>
     </main>
 </body>
 </html>

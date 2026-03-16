@@ -2,17 +2,21 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Login Entrenadores</title>
+    <title>Identificación - PokéTorneo</title>
     <link rel="stylesheet" href="styles.css">
     <script type="module" src="login.js"></script>
 </head>
 <body>
-    <header><h1>LOGIN</h1></header>
-    <main class="card" style="margin-top: 50px;">
-        <input type="text" id="user" placeholder="Usuario">
-        <input type="password" id="pass" placeholder="Contraseña">
-        <button id="btn-entrar" class="btn-poke">ENTRAR</button>
-        <p id="error" style="color:red; display:none;">Datos incorrectos</p>
+    <header><h1>ACCESO PRIVADO</h1></header>
+    <main>
+        <div class="card" style="text-align: center;">
+            <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="50">
+            <h2 style="font-family: 'Press Start 2P'; font-size: 0.7rem;">¿QUIÉN ERES?</h2>
+            <input type="text" id="user" placeholder="ENTRENADOR">
+            <input type="password" id="pass" placeholder="PASSWORD">
+            <button id="btn-entrar" class="btn-poke">CONECTAR</button>
+            <p id="error" style="color:red; display:none; font-weight: bold; margin-top: 10px;">¡DATOS ERRÓNEOS!</p>
+        </div>
     </main>
 </body>
 </html>
