@@ -1,0 +1,5494 @@
+[
+    {
+        "nombre": "Bulbasaur",
+        "habilidades": [
+            "Overgrow",
+            "Chlorophyll"
+        ]
+    },
+    {
+        "nombre": "Ivysaur",
+        "habilidades": [
+            "Overgrow",
+            "Chlorophyll"
+        ]
+    },
+    {
+        "nombre": "Venusaur",
+        "habilidades": [
+            "Overgrow",
+            "Chlorophyll"
+        ]
+    },
+    {
+        "nombre": "Charmander",
+        "habilidades": [
+            "Blaze",
+            "Solar power"
+        ]
+    },
+    {
+        "nombre": "Charmeleon",
+        "habilidades": [
+            "Blaze",
+            "Solar power"
+        ]
+    },
+    {
+        "nombre": "Charizard",
+        "habilidades": [
+            "Blaze",
+            "Solar power"
+        ]
+    },
+    {
+        "nombre": "Squirtle",
+        "habilidades": [
+            "Torrent",
+            "Rain dish"
+        ]
+    },
+    {
+        "nombre": "Wartortle",
+        "habilidades": [
+            "Torrent",
+            "Rain dish"
+        ]
+    },
+    {
+        "nombre": "Blastoise",
+        "habilidades": [
+            "Torrent",
+            "Rain dish"
+        ]
+    },
+    {
+        "nombre": "Caterpie",
+        "habilidades": [
+            "Shield dust",
+            "Run away"
+        ]
+    },
+    {
+        "nombre": "Metapod",
+        "habilidades": [
+            "Shed skin"
+        ]
+    },
+    {
+        "nombre": "Butterfree",
+        "habilidades": [
+            "Compound eyes",
+            "Tinted lens"
+        ]
+    },
+    {
+        "nombre": "Weedle",
+        "habilidades": [
+            "Shield dust",
+            "Run away"
+        ]
+    },
+    {
+        "nombre": "Kakuna",
+        "habilidades": [
+            "Shed skin"
+        ]
+    },
+    {
+        "nombre": "Beedrill",
+        "habilidades": [
+            "Swarm",
+            "Sniper"
+        ]
+    },
+    {
+        "nombre": "Pidgey",
+        "habilidades": [
+            "Keen eye",
+            "Tangled feet",
+            "Big pecks"
+        ]
+    },
+    {
+        "nombre": "Pidgeotto",
+        "habilidades": [
+            "Keen eye",
+            "Tangled feet",
+            "Big pecks"
+        ]
+    },
+    {
+        "nombre": "Pidgeot",
+        "habilidades": [
+            "Keen eye",
+            "Tangled feet",
+            "Big pecks"
+        ]
+    },
+    {
+        "nombre": "Rattata",
+        "habilidades": [
+            "Run away",
+            "Guts",
+            "Hustle"
+        ]
+    },
+    {
+        "nombre": "Raticate",
+        "habilidades": [
+            "Run away",
+            "Guts",
+            "Hustle"
+        ]
+    },
+    {
+        "nombre": "Spearow",
+        "habilidades": [
+            "Keen eye",
+            "Sniper"
+        ]
+    },
+    {
+        "nombre": "Fearow",
+        "habilidades": [
+            "Keen eye",
+            "Sniper"
+        ]
+    },
+    {
+        "nombre": "Ekans",
+        "habilidades": [
+            "Intimidate",
+            "Shed skin",
+            "Unnerve"
+        ]
+    },
+    {
+        "nombre": "Arbok",
+        "habilidades": [
+            "Intimidate",
+            "Shed skin",
+            "Unnerve"
+        ]
+    },
+    {
+        "nombre": "Pikachu",
+        "habilidades": [
+            "Static",
+            "Lightning rod"
+        ]
+    },
+    {
+        "nombre": "Raichu",
+        "habilidades": [
+            "Static",
+            "Lightning rod"
+        ]
+    },
+    {
+        "nombre": "Sandshrew",
+        "habilidades": [
+            "Sand veil",
+            "Sand rush"
+        ]
+    },
+    {
+        "nombre": "Sandslash",
+        "habilidades": [
+            "Sand veil",
+            "Sand rush"
+        ]
+    },
+    {
+        "nombre": "Nidoran-f",
+        "habilidades": [
+            "Poison point",
+            "Rivalry",
+            "Hustle"
+        ]
+    },
+    {
+        "nombre": "Nidorina",
+        "habilidades": [
+            "Poison point",
+            "Rivalry",
+            "Hustle"
+        ]
+    },
+    {
+        "nombre": "Nidoqueen",
+        "habilidades": [
+            "Poison point",
+            "Rivalry",
+            "Sheer force"
+        ]
+    },
+    {
+        "nombre": "Nidoran-m",
+        "habilidades": [
+            "Poison point",
+            "Rivalry",
+            "Hustle"
+        ]
+    },
+    {
+        "nombre": "Nidorino",
+        "habilidades": [
+            "Poison point",
+            "Rivalry",
+            "Hustle"
+        ]
+    },
+    {
+        "nombre": "Nidoking",
+        "habilidades": [
+            "Poison point",
+            "Rivalry",
+            "Sheer force"
+        ]
+    },
+    {
+        "nombre": "Clefairy",
+        "habilidades": [
+            "Cute charm",
+            "Magic guard",
+            "Friend guard"
+        ]
+    },
+    {
+        "nombre": "Clefable",
+        "habilidades": [
+            "Cute charm",
+            "Magic guard",
+            "Unaware"
+        ]
+    },
+    {
+        "nombre": "Vulpix",
+        "habilidades": [
+            "Flash fire",
+            "Drought"
+        ]
+    },
+    {
+        "nombre": "Ninetales",
+        "habilidades": [
+            "Flash fire",
+            "Drought"
+        ]
+    },
+    {
+        "nombre": "Jigglypuff",
+        "habilidades": [
+            "Cute charm",
+            "Competitive",
+            "Friend guard"
+        ]
+    },
+    {
+        "nombre": "Wigglytuff",
+        "habilidades": [
+            "Cute charm",
+            "Competitive",
+            "Frisk"
+        ]
+    },
+    {
+        "nombre": "Zubat",
+        "habilidades": [
+            "Inner focus",
+            "Infiltrator"
+        ]
+    },
+    {
+        "nombre": "Golbat",
+        "habilidades": [
+            "Inner focus",
+            "Infiltrator"
+        ]
+    },
+    {
+        "nombre": "Oddish",
+        "habilidades": [
+            "Chlorophyll",
+            "Run away"
+        ]
+    },
+    {
+        "nombre": "Gloom",
+        "habilidades": [
+            "Chlorophyll",
+            "Stench"
+        ]
+    },
+    {
+        "nombre": "Vileplume",
+        "habilidades": [
+            "Chlorophyll",
+            "Effect spore"
+        ]
+    },
+    {
+        "nombre": "Paras",
+        "habilidades": [
+            "Effect spore",
+            "Dry skin",
+            "Damp"
+        ]
+    },
+    {
+        "nombre": "Parasect",
+        "habilidades": [
+            "Effect spore",
+            "Dry skin",
+            "Damp"
+        ]
+    },
+    {
+        "nombre": "Venonat",
+        "habilidades": [
+            "Compound eyes",
+            "Tinted lens",
+            "Run away"
+        ]
+    },
+    {
+        "nombre": "Venomoth",
+        "habilidades": [
+            "Shield dust",
+            "Tinted lens",
+            "Wonder skin"
+        ]
+    },
+    {
+        "nombre": "Diglett",
+        "habilidades": [
+            "Sand veil",
+            "Arena trap",
+            "Sand force"
+        ]
+    },
+    {
+        "nombre": "Dugtrio",
+        "habilidades": [
+            "Sand veil",
+            "Arena trap",
+            "Sand force"
+        ]
+    },
+    {
+        "nombre": "Meowth",
+        "habilidades": [
+            "Pickup",
+            "Technician",
+            "Unnerve"
+        ]
+    },
+    {
+        "nombre": "Persian",
+        "habilidades": [
+            "Limber",
+            "Technician",
+            "Unnerve"
+        ]
+    },
+    {
+        "nombre": "Psyduck",
+        "habilidades": [
+            "Damp",
+            "Cloud nine",
+            "Swift swim"
+        ]
+    },
+    {
+        "nombre": "Golduck",
+        "habilidades": [
+            "Damp",
+            "Cloud nine",
+            "Swift swim"
+        ]
+    },
+    {
+        "nombre": "Mankey",
+        "habilidades": [
+            "Vital spirit",
+            "Anger point",
+            "Defiant"
+        ]
+    },
+    {
+        "nombre": "Primeape",
+        "habilidades": [
+            "Vital spirit",
+            "Anger point",
+            "Defiant"
+        ]
+    },
+    {
+        "nombre": "Growlithe",
+        "habilidades": [
+            "Intimidate",
+            "Flash fire",
+            "Justified"
+        ]
+    },
+    {
+        "nombre": "Arcanine",
+        "habilidades": [
+            "Intimidate",
+            "Flash fire",
+            "Justified"
+        ]
+    },
+    {
+        "nombre": "Poliwag",
+        "habilidades": [
+            "Water absorb",
+            "Damp",
+            "Swift swim"
+        ]
+    },
+    {
+        "nombre": "Poliwhirl",
+        "habilidades": [
+            "Water absorb",
+            "Damp",
+            "Swift swim"
+        ]
+    },
+    {
+        "nombre": "Poliwrath",
+        "habilidades": [
+            "Water absorb",
+            "Damp",
+            "Swift swim"
+        ]
+    },
+    {
+        "nombre": "Abra",
+        "habilidades": [
+            "Synchronize",
+            "Inner focus",
+            "Magic guard"
+        ]
+    },
+    {
+        "nombre": "Kadabra",
+        "habilidades": [
+            "Synchronize",
+            "Inner focus",
+            "Magic guard"
+        ]
+    },
+    {
+        "nombre": "Alakazam",
+        "habilidades": [
+            "Synchronize",
+            "Inner focus",
+            "Magic guard"
+        ]
+    },
+    {
+        "nombre": "Machop",
+        "habilidades": [
+            "Guts",
+            "No guard",
+            "Steadfast"
+        ]
+    },
+    {
+        "nombre": "Machoke",
+        "habilidades": [
+            "Guts",
+            "No guard",
+            "Steadfast"
+        ]
+    },
+    {
+        "nombre": "Machamp",
+        "habilidades": [
+            "Guts",
+            "No guard",
+            "Steadfast"
+        ]
+    },
+    {
+        "nombre": "Bellsprout",
+        "habilidades": [
+            "Chlorophyll",
+            "Gluttony"
+        ]
+    },
+    {
+        "nombre": "Weepinbell",
+        "habilidades": [
+            "Chlorophyll",
+            "Gluttony"
+        ]
+    },
+    {
+        "nombre": "Victreebel",
+        "habilidades": [
+            "Chlorophyll",
+            "Gluttony"
+        ]
+    },
+    {
+        "nombre": "Tentacool",
+        "habilidades": [
+            "Clear body",
+            "Liquid ooze",
+            "Rain dish"
+        ]
+    },
+    {
+        "nombre": "Tentacruel",
+        "habilidades": [
+            "Clear body",
+            "Liquid ooze",
+            "Rain dish"
+        ]
+    },
+    {
+        "nombre": "Geodude",
+        "habilidades": [
+            "Rock head",
+            "Sturdy",
+            "Sand veil"
+        ]
+    },
+    {
+        "nombre": "Graveler",
+        "habilidades": [
+            "Rock head",
+            "Sturdy",
+            "Sand veil"
+        ]
+    },
+    {
+        "nombre": "Golem",
+        "habilidades": [
+            "Rock head",
+            "Sturdy",
+            "Sand veil"
+        ]
+    },
+    {
+        "nombre": "Ponyta",
+        "habilidades": [
+            "Run away",
+            "Flash fire",
+            "Flame body"
+        ]
+    },
+    {
+        "nombre": "Rapidash",
+        "habilidades": [
+            "Run away",
+            "Flash fire",
+            "Flame body"
+        ]
+    },
+    {
+        "nombre": "Slowpoke",
+        "habilidades": [
+            "Oblivious",
+            "Own tempo",
+            "Regenerator"
+        ]
+    },
+    {
+        "nombre": "Slowbro",
+        "habilidades": [
+            "Oblivious",
+            "Own tempo",
+            "Regenerator"
+        ]
+    },
+    {
+        "nombre": "Magnemite",
+        "habilidades": [
+            "Magnet pull",
+            "Sturdy",
+            "Analytic"
+        ]
+    },
+    {
+        "nombre": "Magneton",
+        "habilidades": [
+            "Magnet pull",
+            "Sturdy",
+            "Analytic"
+        ]
+    },
+    {
+        "nombre": "Farfetchd",
+        "habilidades": [
+            "Keen eye",
+            "Inner focus",
+            "Defiant"
+        ]
+    },
+    {
+        "nombre": "Doduo",
+        "habilidades": [
+            "Run away",
+            "Early bird",
+            "Tangled feet"
+        ]
+    },
+    {
+        "nombre": "Dodrio",
+        "habilidades": [
+            "Run away",
+            "Early bird",
+            "Tangled feet"
+        ]
+    },
+    {
+        "nombre": "Seel",
+        "habilidades": [
+            "Thick fat",
+            "Hydration",
+            "Ice body"
+        ]
+    },
+    {
+        "nombre": "Dewgong",
+        "habilidades": [
+            "Thick fat",
+            "Hydration",
+            "Ice body"
+        ]
+    },
+    {
+        "nombre": "Grimer",
+        "habilidades": [
+            "Stench",
+            "Sticky hold",
+            "Poison touch"
+        ]
+    },
+    {
+        "nombre": "Muk",
+        "habilidades": [
+            "Stench",
+            "Sticky hold",
+            "Poison touch"
+        ]
+    },
+    {
+        "nombre": "Shellder",
+        "habilidades": [
+            "Shell armor",
+            "Skill link",
+            "Overcoat"
+        ]
+    },
+    {
+        "nombre": "Cloyster",
+        "habilidades": [
+            "Shell armor",
+            "Skill link",
+            "Overcoat"
+        ]
+    },
+    {
+        "nombre": "Gastly",
+        "habilidades": [
+            "Levitate"
+        ]
+    },
+    {
+        "nombre": "Haunter",
+        "habilidades": [
+            "Levitate"
+        ]
+    },
+    {
+        "nombre": "Gengar",
+        "habilidades": [
+            "Cursed body"
+        ]
+    },
+    {
+        "nombre": "Onix",
+        "habilidades": [
+            "Rock head",
+            "Sturdy",
+            "Weak armor"
+        ]
+    },
+    {
+        "nombre": "Drowzee",
+        "habilidades": [
+            "Insomnia",
+            "Forewarn",
+            "Inner focus"
+        ]
+    },
+    {
+        "nombre": "Hypno",
+        "habilidades": [
+            "Insomnia",
+            "Forewarn",
+            "Inner focus"
+        ]
+    },
+    {
+        "nombre": "Krabby",
+        "habilidades": [
+            "Hyper cutter",
+            "Shell armor",
+            "Sheer force"
+        ]
+    },
+    {
+        "nombre": "Kingler",
+        "habilidades": [
+            "Hyper cutter",
+            "Shell armor",
+            "Sheer force"
+        ]
+    },
+    {
+        "nombre": "Voltorb",
+        "habilidades": [
+            "Soundproof",
+            "Static",
+            "Aftermath"
+        ]
+    },
+    {
+        "nombre": "Electrode",
+        "habilidades": [
+            "Soundproof",
+            "Static",
+            "Aftermath"
+        ]
+    },
+    {
+        "nombre": "Exeggcute",
+        "habilidades": [
+            "Chlorophyll",
+            "Harvest"
+        ]
+    },
+    {
+        "nombre": "Exeggutor",
+        "habilidades": [
+            "Chlorophyll",
+            "Harvest"
+        ]
+    },
+    {
+        "nombre": "Cubone",
+        "habilidades": [
+            "Rock head",
+            "Lightning rod",
+            "Battle armor"
+        ]
+    },
+    {
+        "nombre": "Marowak",
+        "habilidades": [
+            "Rock head",
+            "Lightning rod",
+            "Battle armor"
+        ]
+    },
+    {
+        "nombre": "Hitmonlee",
+        "habilidades": [
+            "Limber",
+            "Reckless",
+            "Unburden"
+        ]
+    },
+    {
+        "nombre": "Hitmonchan",
+        "habilidades": [
+            "Keen eye",
+            "Iron fist",
+            "Inner focus"
+        ]
+    },
+    {
+        "nombre": "Lickitung",
+        "habilidades": [
+            "Own tempo",
+            "Oblivious",
+            "Cloud nine"
+        ]
+    },
+    {
+        "nombre": "Koffing",
+        "habilidades": [
+            "Levitate",
+            "Neutralizing gas",
+            "Stench"
+        ]
+    },
+    {
+        "nombre": "Weezing",
+        "habilidades": [
+            "Levitate",
+            "Neutralizing gas",
+            "Stench"
+        ]
+    },
+    {
+        "nombre": "Rhyhorn",
+        "habilidades": [
+            "Lightning rod",
+            "Rock head",
+            "Reckless"
+        ]
+    },
+    {
+        "nombre": "Rhydon",
+        "habilidades": [
+            "Lightning rod",
+            "Rock head",
+            "Reckless"
+        ]
+    },
+    {
+        "nombre": "Chansey",
+        "habilidades": [
+            "Natural cure",
+            "Serene grace",
+            "Healer"
+        ]
+    },
+    {
+        "nombre": "Tangela",
+        "habilidades": [
+            "Chlorophyll",
+            "Leaf guard",
+            "Regenerator"
+        ]
+    },
+    {
+        "nombre": "Kangaskhan",
+        "habilidades": [
+            "Early bird",
+            "Scrappy",
+            "Inner focus"
+        ]
+    },
+    {
+        "nombre": "Horsea",
+        "habilidades": [
+            "Swift swim",
+            "Sniper",
+            "Damp"
+        ]
+    },
+    {
+        "nombre": "Seadra",
+        "habilidades": [
+            "Poison point",
+            "Sniper",
+            "Damp"
+        ]
+    },
+    {
+        "nombre": "Goldeen",
+        "habilidades": [
+            "Swift swim",
+            "Water veil",
+            "Lightning rod"
+        ]
+    },
+    {
+        "nombre": "Seaking",
+        "habilidades": [
+            "Swift swim",
+            "Water veil",
+            "Lightning rod"
+        ]
+    },
+    {
+        "nombre": "Staryu",
+        "habilidades": [
+            "Illuminate",
+            "Natural cure",
+            "Analytic"
+        ]
+    },
+    {
+        "nombre": "Starmie",
+        "habilidades": [
+            "Illuminate",
+            "Natural cure",
+            "Analytic"
+        ]
+    },
+    {
+        "nombre": "Mr-mime",
+        "habilidades": [
+            "Soundproof",
+            "Filter",
+            "Technician"
+        ]
+    },
+    {
+        "nombre": "Scyther",
+        "habilidades": [
+            "Swarm",
+            "Technician",
+            "Steadfast"
+        ]
+    },
+    {
+        "nombre": "Jynx",
+        "habilidades": [
+            "Oblivious",
+            "Forewarn",
+            "Dry skin"
+        ]
+    },
+    {
+        "nombre": "Electabuzz",
+        "habilidades": [
+            "Static",
+            "Vital spirit"
+        ]
+    },
+    {
+        "nombre": "Magmar",
+        "habilidades": [
+            "Flame body",
+            "Vital spirit"
+        ]
+    },
+    {
+        "nombre": "Pinsir",
+        "habilidades": [
+            "Hyper cutter",
+            "Mold breaker",
+            "Moxie"
+        ]
+    },
+    {
+        "nombre": "Tauros",
+        "habilidades": [
+            "Intimidate",
+            "Anger point",
+            "Sheer force"
+        ]
+    },
+    {
+        "nombre": "Magikarp",
+        "habilidades": [
+            "Swift swim",
+            "Rattled"
+        ]
+    },
+    {
+        "nombre": "Gyarados",
+        "habilidades": [
+            "Intimidate",
+            "Moxie"
+        ]
+    },
+    {
+        "nombre": "Lapras",
+        "habilidades": [
+            "Water absorb",
+            "Shell armor",
+            "Hydration"
+        ]
+    },
+    {
+        "nombre": "Ditto",
+        "habilidades": [
+            "Limber",
+            "Imposter"
+        ]
+    },
+    {
+        "nombre": "Eevee",
+        "habilidades": [
+            "Run away",
+            "Adaptability",
+            "Anticipation"
+        ]
+    },
+    {
+        "nombre": "Vaporeon",
+        "habilidades": [
+            "Water absorb",
+            "Hydration"
+        ]
+    },
+    {
+        "nombre": "Jolteon",
+        "habilidades": [
+            "Volt absorb",
+            "Quick feet"
+        ]
+    },
+    {
+        "nombre": "Flareon",
+        "habilidades": [
+            "Flash fire",
+            "Guts"
+        ]
+    },
+    {
+        "nombre": "Porygon",
+        "habilidades": [
+            "Trace",
+            "Download",
+            "Analytic"
+        ]
+    },
+    {
+        "nombre": "Omanyte",
+        "habilidades": [
+            "Swift swim",
+            "Shell armor",
+            "Weak armor"
+        ]
+    },
+    {
+        "nombre": "Omastar",
+        "habilidades": [
+            "Swift swim",
+            "Shell armor",
+            "Weak armor"
+        ]
+    },
+    {
+        "nombre": "Kabuto",
+        "habilidades": [
+            "Swift swim",
+            "Battle armor",
+            "Weak armor"
+        ]
+    },
+    {
+        "nombre": "Kabutops",
+        "habilidades": [
+            "Swift swim",
+            "Battle armor",
+            "Weak armor"
+        ]
+    },
+    {
+        "nombre": "Aerodactyl",
+        "habilidades": [
+            "Rock head",
+            "Pressure",
+            "Unnerve"
+        ]
+    },
+    {
+        "nombre": "Snorlax",
+        "habilidades": [
+            "Immunity",
+            "Thick fat",
+            "Gluttony"
+        ]
+    },
+    {
+        "nombre": "Dratini",
+        "habilidades": [
+            "Shed skin",
+            "Marvel scale"
+        ]
+    },
+    {
+        "nombre": "Dragonair",
+        "habilidades": [
+            "Shed skin",
+            "Marvel scale"
+        ]
+    },
+    {
+        "nombre": "Dragonite",
+        "habilidades": [
+            "Inner focus",
+            "Multiscale"
+        ]
+    },
+    {
+        "nombre": "Chikorita",
+        "habilidades": [
+            "Overgrow",
+            "Leaf guard"
+        ]
+    },
+    {
+        "nombre": "Bayleef",
+        "habilidades": [
+            "Overgrow",
+            "Leaf guard"
+        ]
+    },
+    {
+        "nombre": "Meganium",
+        "habilidades": [
+            "Overgrow",
+            "Leaf guard"
+        ]
+    },
+    {
+        "nombre": "Cyndaquil",
+        "habilidades": [
+            "Blaze",
+            "Flash fire"
+        ]
+    },
+    {
+        "nombre": "Quilava",
+        "habilidades": [
+            "Blaze",
+            "Flash fire"
+        ]
+    },
+    {
+        "nombre": "Typhlosion",
+        "habilidades": [
+            "Blaze",
+            "Flash fire"
+        ]
+    },
+    {
+        "nombre": "Totodile",
+        "habilidades": [
+            "Torrent",
+            "Sheer force"
+        ]
+    },
+    {
+        "nombre": "Croconaw",
+        "habilidades": [
+            "Torrent",
+            "Sheer force"
+        ]
+    },
+    {
+        "nombre": "Feraligatr",
+        "habilidades": [
+            "Torrent",
+            "Sheer force"
+        ]
+    },
+    {
+        "nombre": "Sentret",
+        "habilidades": [
+            "Run away",
+            "Keen eye",
+            "Frisk"
+        ]
+    },
+    {
+        "nombre": "Furret",
+        "habilidades": [
+            "Run away",
+            "Keen eye",
+            "Frisk"
+        ]
+    },
+    {
+        "nombre": "Hoothoot",
+        "habilidades": [
+            "Insomnia",
+            "Keen eye",
+            "Tinted lens"
+        ]
+    },
+    {
+        "nombre": "Noctowl",
+        "habilidades": [
+            "Insomnia",
+            "Keen eye",
+            "Tinted lens"
+        ]
+    },
+    {
+        "nombre": "Ledyba",
+        "habilidades": [
+            "Swarm",
+            "Early bird",
+            "Rattled"
+        ]
+    },
+    {
+        "nombre": "Ledian",
+        "habilidades": [
+            "Swarm",
+            "Early bird",
+            "Iron fist"
+        ]
+    },
+    {
+        "nombre": "Spinarak",
+        "habilidades": [
+            "Swarm",
+            "Insomnia",
+            "Sniper"
+        ]
+    },
+    {
+        "nombre": "Ariados",
+        "habilidades": [
+            "Swarm",
+            "Insomnia",
+            "Sniper"
+        ]
+    },
+    {
+        "nombre": "Crobat",
+        "habilidades": [
+            "Inner focus",
+            "Infiltrator"
+        ]
+    },
+    {
+        "nombre": "Chinchou",
+        "habilidades": [
+            "Volt absorb",
+            "Illuminate",
+            "Water absorb"
+        ]
+    },
+    {
+        "nombre": "Lanturn",
+        "habilidades": [
+            "Volt absorb",
+            "Illuminate",
+            "Water absorb"
+        ]
+    },
+    {
+        "nombre": "Pichu",
+        "habilidades": [
+            "Static",
+            "Lightning rod"
+        ]
+    },
+    {
+        "nombre": "Cleffa",
+        "habilidades": [
+            "Cute charm",
+            "Magic guard",
+            "Friend guard"
+        ]
+    },
+    {
+        "nombre": "Igglybuff",
+        "habilidades": [
+            "Cute charm",
+            "Competitive",
+            "Friend guard"
+        ]
+    },
+    {
+        "nombre": "Togepi",
+        "habilidades": [
+            "Hustle",
+            "Serene grace",
+            "Super luck"
+        ]
+    },
+    {
+        "nombre": "Togetic",
+        "habilidades": [
+            "Hustle",
+            "Serene grace",
+            "Super luck"
+        ]
+    },
+    {
+        "nombre": "Natu",
+        "habilidades": [
+            "Synchronize",
+            "Early bird",
+            "Magic bounce"
+        ]
+    },
+    {
+        "nombre": "Xatu",
+        "habilidades": [
+            "Synchronize",
+            "Early bird",
+            "Magic bounce"
+        ]
+    },
+    {
+        "nombre": "Mareep",
+        "habilidades": [
+            "Static",
+            "Plus"
+        ]
+    },
+    {
+        "nombre": "Flaaffy",
+        "habilidades": [
+            "Static",
+            "Plus"
+        ]
+    },
+    {
+        "nombre": "Ampharos",
+        "habilidades": [
+            "Static",
+            "Plus"
+        ]
+    },
+    {
+        "nombre": "Bellossom",
+        "habilidades": [
+            "Chlorophyll",
+            "Healer"
+        ]
+    },
+    {
+        "nombre": "Marill",
+        "habilidades": [
+            "Thick fat",
+            "Huge power",
+            "Sap sipper"
+        ]
+    },
+    {
+        "nombre": "Azumarill",
+        "habilidades": [
+            "Thick fat",
+            "Huge power",
+            "Sap sipper"
+        ]
+    },
+    {
+        "nombre": "Sudowoodo",
+        "habilidades": [
+            "Sturdy",
+            "Rock head",
+            "Rattled"
+        ]
+    },
+    {
+        "nombre": "Politoed",
+        "habilidades": [
+            "Water absorb",
+            "Damp",
+            "Drizzle"
+        ]
+    },
+    {
+        "nombre": "Hoppip",
+        "habilidades": [
+            "Chlorophyll",
+            "Leaf guard",
+            "Infiltrator"
+        ]
+    },
+    {
+        "nombre": "Skiploom",
+        "habilidades": [
+            "Chlorophyll",
+            "Leaf guard",
+            "Infiltrator"
+        ]
+    },
+    {
+        "nombre": "Jumpluff",
+        "habilidades": [
+            "Chlorophyll",
+            "Leaf guard",
+            "Infiltrator"
+        ]
+    },
+    {
+        "nombre": "Aipom",
+        "habilidades": [
+            "Run away",
+            "Pickup",
+            "Skill link"
+        ]
+    },
+    {
+        "nombre": "Sunkern",
+        "habilidades": [
+            "Chlorophyll",
+            "Solar power",
+            "Early bird"
+        ]
+    },
+    {
+        "nombre": "Sunflora",
+        "habilidades": [
+            "Chlorophyll",
+            "Solar power",
+            "Early bird"
+        ]
+    },
+    {
+        "nombre": "Yanma",
+        "habilidades": [
+            "Speed boost",
+            "Compound eyes",
+            "Frisk"
+        ]
+    },
+    {
+        "nombre": "Wooper",
+        "habilidades": [
+            "Damp",
+            "Water absorb",
+            "Unaware"
+        ]
+    },
+    {
+        "nombre": "Quagsire",
+        "habilidades": [
+            "Damp",
+            "Water absorb",
+            "Unaware"
+        ]
+    },
+    {
+        "nombre": "Espeon",
+        "habilidades": [
+            "Synchronize",
+            "Magic bounce"
+        ]
+    },
+    {
+        "nombre": "Umbreon",
+        "habilidades": [
+            "Synchronize",
+            "Inner focus"
+        ]
+    },
+    {
+        "nombre": "Murkrow",
+        "habilidades": [
+            "Insomnia",
+            "Super luck",
+            "Prankster"
+        ]
+    },
+    {
+        "nombre": "Slowking",
+        "habilidades": [
+            "Oblivious",
+            "Own tempo",
+            "Regenerator"
+        ]
+    },
+    {
+        "nombre": "Misdreavus",
+        "habilidades": [
+            "Levitate"
+        ]
+    },
+    {
+        "nombre": "Unown",
+        "habilidades": [
+            "Levitate"
+        ]
+    },
+    {
+        "nombre": "Wobbuffet",
+        "habilidades": [
+            "Shadow tag",
+            "Telepathy"
+        ]
+    },
+    {
+        "nombre": "Girafarig",
+        "habilidades": [
+            "Inner focus",
+            "Early bird",
+            "Sap sipper"
+        ]
+    },
+    {
+        "nombre": "Pineco",
+        "habilidades": [
+            "Sturdy",
+            "Overcoat"
+        ]
+    },
+    {
+        "nombre": "Forretress",
+        "habilidades": [
+            "Sturdy",
+            "Overcoat"
+        ]
+    },
+    {
+        "nombre": "Dunsparce",
+        "habilidades": [
+            "Serene grace",
+            "Run away",
+            "Rattled"
+        ]
+    },
+    {
+        "nombre": "Gligar",
+        "habilidades": [
+            "Hyper cutter",
+            "Sand veil",
+            "Immunity"
+        ]
+    },
+    {
+        "nombre": "Steelix",
+        "habilidades": [
+            "Rock head",
+            "Sturdy",
+            "Sheer force"
+        ]
+    },
+    {
+        "nombre": "Snubbull",
+        "habilidades": [
+            "Intimidate",
+            "Run away",
+            "Rattled"
+        ]
+    },
+    {
+        "nombre": "Granbull",
+        "habilidades": [
+            "Intimidate",
+            "Quick feet",
+            "Rattled"
+        ]
+    },
+    {
+        "nombre": "Qwilfish",
+        "habilidades": [
+            "Poison point",
+            "Swift swim",
+            "Intimidate"
+        ]
+    },
+    {
+        "nombre": "Scizor",
+        "habilidades": [
+            "Swarm",
+            "Technician",
+            "Light metal"
+        ]
+    },
+    {
+        "nombre": "Shuckle",
+        "habilidades": [
+            "Sturdy",
+            "Gluttony",
+            "Contrary"
+        ]
+    },
+    {
+        "nombre": "Heracross",
+        "habilidades": [
+            "Swarm",
+            "Guts",
+            "Moxie"
+        ]
+    },
+    {
+        "nombre": "Sneasel",
+        "habilidades": [
+            "Inner focus",
+            "Keen eye",
+            "Pickpocket"
+        ]
+    },
+    {
+        "nombre": "Teddiursa",
+        "habilidades": [
+            "Pickup",
+            "Quick feet",
+            "Honey gather"
+        ]
+    },
+    {
+        "nombre": "Ursaring",
+        "habilidades": [
+            "Guts",
+            "Quick feet",
+            "Unnerve"
+        ]
+    },
+    {
+        "nombre": "Slugma",
+        "habilidades": [
+            "Magma armor",
+            "Flame body",
+            "Weak armor"
+        ]
+    },
+    {
+        "nombre": "Magcargo",
+        "habilidades": [
+            "Magma armor",
+            "Flame body",
+            "Weak armor"
+        ]
+    },
+    {
+        "nombre": "Swinub",
+        "habilidades": [
+            "Oblivious",
+            "Snow cloak",
+            "Thick fat"
+        ]
+    },
+    {
+        "nombre": "Piloswine",
+        "habilidades": [
+            "Oblivious",
+            "Snow cloak",
+            "Thick fat"
+        ]
+    },
+    {
+        "nombre": "Corsola",
+        "habilidades": [
+            "Hustle",
+            "Natural cure",
+            "Regenerator"
+        ]
+    },
+    {
+        "nombre": "Remoraid",
+        "habilidades": [
+            "Hustle",
+            "Sniper",
+            "Moody"
+        ]
+    },
+    {
+        "nombre": "Octillery",
+        "habilidades": [
+            "Suction cups",
+            "Sniper",
+            "Moody"
+        ]
+    },
+    {
+        "nombre": "Delibird",
+        "habilidades": [
+            "Vital spirit",
+            "Hustle",
+            "Insomnia"
+        ]
+    },
+    {
+        "nombre": "Mantine",
+        "habilidades": [
+            "Swift swim",
+            "Water absorb",
+            "Water veil"
+        ]
+    },
+    {
+        "nombre": "Skarmory",
+        "habilidades": [
+            "Keen eye",
+            "Sturdy",
+            "Weak armor"
+        ]
+    },
+    {
+        "nombre": "Houndour",
+        "habilidades": [
+            "Early bird",
+            "Flash fire",
+            "Unnerve"
+        ]
+    },
+    {
+        "nombre": "Houndoom",
+        "habilidades": [
+            "Early bird",
+            "Flash fire",
+            "Unnerve"
+        ]
+    },
+    {
+        "nombre": "Kingdra",
+        "habilidades": [
+            "Swift swim",
+            "Sniper",
+            "Damp"
+        ]
+    },
+    {
+        "nombre": "Phanpy",
+        "habilidades": [
+            "Pickup",
+            "Sand veil"
+        ]
+    },
+    {
+        "nombre": "Donphan",
+        "habilidades": [
+            "Sturdy",
+            "Sand veil"
+        ]
+    },
+    {
+        "nombre": "Porygon2",
+        "habilidades": [
+            "Trace",
+            "Download",
+            "Analytic"
+        ]
+    },
+    {
+        "nombre": "Stantler",
+        "habilidades": [
+            "Intimidate",
+            "Frisk",
+            "Sap sipper"
+        ]
+    },
+    {
+        "nombre": "Smeargle",
+        "habilidades": [
+            "Own tempo",
+            "Technician",
+            "Moody"
+        ]
+    },
+    {
+        "nombre": "Tyrogue",
+        "habilidades": [
+            "Guts",
+            "Steadfast",
+            "Vital spirit"
+        ]
+    },
+    {
+        "nombre": "Hitmontop",
+        "habilidades": [
+            "Intimidate",
+            "Technician",
+            "Steadfast"
+        ]
+    },
+    {
+        "nombre": "Smoochum",
+        "habilidades": [
+            "Oblivious",
+            "Forewarn",
+            "Hydration"
+        ]
+    },
+    {
+        "nombre": "Elekid",
+        "habilidades": [
+            "Static",
+            "Vital spirit"
+        ]
+    },
+    {
+        "nombre": "Magby",
+        "habilidades": [
+            "Flame body",
+            "Vital spirit"
+        ]
+    },
+    {
+        "nombre": "Miltank",
+        "habilidades": [
+            "Thick fat",
+            "Scrappy",
+            "Sap sipper"
+        ]
+    },
+    {
+        "nombre": "Blissey",
+        "habilidades": [
+            "Natural cure",
+            "Serene grace",
+            "Healer"
+        ]
+    },
+    {
+        "nombre": "Larvitar",
+        "habilidades": [
+            "Guts",
+            "Sand veil"
+        ]
+    },
+    {
+        "nombre": "Pupitar",
+        "habilidades": [
+            "Shed skin"
+        ]
+    },
+    {
+        "nombre": "Tyranitar",
+        "habilidades": [
+            "Sand stream",
+            "Unnerve"
+        ]
+    },
+    {
+        "nombre": "Treecko",
+        "habilidades": [
+            "Overgrow",
+            "Unburden"
+        ]
+    },
+    {
+        "nombre": "Grovyle",
+        "habilidades": [
+            "Overgrow",
+            "Unburden"
+        ]
+    },
+    {
+        "nombre": "Sceptile",
+        "habilidades": [
+            "Overgrow",
+            "Unburden"
+        ]
+    },
+    {
+        "nombre": "Torchic",
+        "habilidades": [
+            "Blaze",
+            "Speed boost"
+        ]
+    },
+    {
+        "nombre": "Combusken",
+        "habilidades": [
+            "Blaze",
+            "Speed boost"
+        ]
+    },
+    {
+        "nombre": "Blaziken",
+        "habilidades": [
+            "Blaze",
+            "Speed boost"
+        ]
+    },
+    {
+        "nombre": "Mudkip",
+        "habilidades": [
+            "Torrent",
+            "Damp"
+        ]
+    },
+    {
+        "nombre": "Marshtomp",
+        "habilidades": [
+            "Torrent",
+            "Damp"
+        ]
+    },
+    {
+        "nombre": "Swampert",
+        "habilidades": [
+            "Torrent",
+            "Damp"
+        ]
+    },
+    {
+        "nombre": "Poochyena",
+        "habilidades": [
+            "Run away",
+            "Quick feet",
+            "Rattled"
+        ]
+    },
+    {
+        "nombre": "Mightyena",
+        "habilidades": [
+            "Intimidate",
+            "Quick feet",
+            "Moxie"
+        ]
+    },
+    {
+        "nombre": "Zigzagoon",
+        "habilidades": [
+            "Pickup",
+            "Gluttony",
+            "Quick feet"
+        ]
+    },
+    {
+        "nombre": "Linoone",
+        "habilidades": [
+            "Pickup",
+            "Gluttony",
+            "Quick feet"
+        ]
+    },
+    {
+        "nombre": "Wurmple",
+        "habilidades": [
+            "Shield dust",
+            "Run away"
+        ]
+    },
+    {
+        "nombre": "Silcoon",
+        "habilidades": [
+            "Shed skin"
+        ]
+    },
+    {
+        "nombre": "Beautifly",
+        "habilidades": [
+            "Swarm",
+            "Rivalry"
+        ]
+    },
+    {
+        "nombre": "Cascoon",
+        "habilidades": [
+            "Shed skin"
+        ]
+    },
+    {
+        "nombre": "Dustox",
+        "habilidades": [
+            "Shield dust",
+            "Compound eyes"
+        ]
+    },
+    {
+        "nombre": "Lotad",
+        "habilidades": [
+            "Swift swim",
+            "Rain dish",
+            "Own tempo"
+        ]
+    },
+    {
+        "nombre": "Lombre",
+        "habilidades": [
+            "Swift swim",
+            "Rain dish",
+            "Own tempo"
+        ]
+    },
+    {
+        "nombre": "Ludicolo",
+        "habilidades": [
+            "Swift swim",
+            "Rain dish",
+            "Own tempo"
+        ]
+    },
+    {
+        "nombre": "Seedot",
+        "habilidades": [
+            "Chlorophyll",
+            "Early bird",
+            "Pickpocket"
+        ]
+    },
+    {
+        "nombre": "Nuzleaf",
+        "habilidades": [
+            "Chlorophyll",
+            "Early bird",
+            "Pickpocket"
+        ]
+    },
+    {
+        "nombre": "Shiftry",
+        "habilidades": [
+            "Chlorophyll",
+            "Wind rider",
+            "Pickpocket"
+        ]
+    },
+    {
+        "nombre": "Taillow",
+        "habilidades": [
+            "Guts",
+            "Scrappy"
+        ]
+    },
+    {
+        "nombre": "Swellow",
+        "habilidades": [
+            "Guts",
+            "Scrappy"
+        ]
+    },
+    {
+        "nombre": "Wingull",
+        "habilidades": [
+            "Keen eye",
+            "Hydration",
+            "Rain dish"
+        ]
+    },
+    {
+        "nombre": "Pelipper",
+        "habilidades": [
+            "Keen eye",
+            "Drizzle",
+            "Rain dish"
+        ]
+    },
+    {
+        "nombre": "Ralts",
+        "habilidades": [
+            "Synchronize",
+            "Trace",
+            "Telepathy"
+        ]
+    },
+    {
+        "nombre": "Kirlia",
+        "habilidades": [
+            "Synchronize",
+            "Trace",
+            "Telepathy"
+        ]
+    },
+    {
+        "nombre": "Gardevoir",
+        "habilidades": [
+            "Synchronize",
+            "Trace",
+            "Telepathy"
+        ]
+    },
+    {
+        "nombre": "Surskit",
+        "habilidades": [
+            "Swift swim",
+            "Rain dish"
+        ]
+    },
+    {
+        "nombre": "Masquerain",
+        "habilidades": [
+            "Intimidate",
+            "Unnerve"
+        ]
+    },
+    {
+        "nombre": "Shroomish",
+        "habilidades": [
+            "Effect spore",
+            "Poison heal",
+            "Quick feet"
+        ]
+    },
+    {
+        "nombre": "Breloom",
+        "habilidades": [
+            "Effect spore",
+            "Poison heal",
+            "Technician"
+        ]
+    },
+    {
+        "nombre": "Slakoth",
+        "habilidades": [
+            "Truant"
+        ]
+    },
+    {
+        "nombre": "Vigoroth",
+        "habilidades": [
+            "Vital spirit"
+        ]
+    },
+    {
+        "nombre": "Slaking",
+        "habilidades": [
+            "Truant"
+        ]
+    },
+    {
+        "nombre": "Nincada",
+        "habilidades": [
+            "Compound eyes",
+            "Run away"
+        ]
+    },
+    {
+        "nombre": "Ninjask",
+        "habilidades": [
+            "Speed boost",
+            "Infiltrator"
+        ]
+    },
+    {
+        "nombre": "Shedinja",
+        "habilidades": [
+            "Wonder guard"
+        ]
+    },
+    {
+        "nombre": "Whismur",
+        "habilidades": [
+            "Soundproof",
+            "Rattled"
+        ]
+    },
+    {
+        "nombre": "Loudred",
+        "habilidades": [
+            "Soundproof",
+            "Scrappy"
+        ]
+    },
+    {
+        "nombre": "Exploud",
+        "habilidades": [
+            "Soundproof",
+            "Scrappy"
+        ]
+    },
+    {
+        "nombre": "Makuhita",
+        "habilidades": [
+            "Thick fat",
+            "Guts",
+            "Sheer force"
+        ]
+    },
+    {
+        "nombre": "Hariyama",
+        "habilidades": [
+            "Thick fat",
+            "Guts",
+            "Sheer force"
+        ]
+    },
+    {
+        "nombre": "Azurill",
+        "habilidades": [
+            "Thick fat",
+            "Huge power",
+            "Sap sipper"
+        ]
+    },
+    {
+        "nombre": "Nosepass",
+        "habilidades": [
+            "Sturdy",
+            "Magnet pull",
+            "Sand force"
+        ]
+    },
+    {
+        "nombre": "Skitty",
+        "habilidades": [
+            "Cute charm",
+            "Normalize",
+            "Wonder skin"
+        ]
+    },
+    {
+        "nombre": "Delcatty",
+        "habilidades": [
+            "Cute charm",
+            "Normalize",
+            "Wonder skin"
+        ]
+    },
+    {
+        "nombre": "Sableye",
+        "habilidades": [
+            "Keen eye",
+            "Stall",
+            "Prankster"
+        ]
+    },
+    {
+        "nombre": "Mawile",
+        "habilidades": [
+            "Hyper cutter",
+            "Intimidate",
+            "Sheer force"
+        ]
+    },
+    {
+        "nombre": "Aron",
+        "habilidades": [
+            "Sturdy",
+            "Rock head",
+            "Heavy metal"
+        ]
+    },
+    {
+        "nombre": "Lairon",
+        "habilidades": [
+            "Sturdy",
+            "Rock head",
+            "Heavy metal"
+        ]
+    },
+    {
+        "nombre": "Aggron",
+        "habilidades": [
+            "Sturdy",
+            "Rock head",
+            "Heavy metal"
+        ]
+    },
+    {
+        "nombre": "Meditite",
+        "habilidades": [
+            "Pure power",
+            "Telepathy"
+        ]
+    },
+    {
+        "nombre": "Medicham",
+        "habilidades": [
+            "Pure power",
+            "Telepathy"
+        ]
+    },
+    {
+        "nombre": "Electrike",
+        "habilidades": [
+            "Static",
+            "Lightning rod",
+            "Minus"
+        ]
+    },
+    {
+        "nombre": "Manectric",
+        "habilidades": [
+            "Static",
+            "Lightning rod",
+            "Minus"
+        ]
+    },
+    {
+        "nombre": "Plusle",
+        "habilidades": [
+            "Plus",
+            "Lightning rod"
+        ]
+    },
+    {
+        "nombre": "Minun",
+        "habilidades": [
+            "Minus",
+            "Volt absorb"
+        ]
+    },
+    {
+        "nombre": "Volbeat",
+        "habilidades": [
+            "Illuminate",
+            "Swarm",
+            "Prankster"
+        ]
+    },
+    {
+        "nombre": "Illumise",
+        "habilidades": [
+            "Oblivious",
+            "Tinted lens",
+            "Prankster"
+        ]
+    },
+    {
+        "nombre": "Roselia",
+        "habilidades": [
+            "Natural cure",
+            "Poison point",
+            "Leaf guard"
+        ]
+    },
+    {
+        "nombre": "Gulpin",
+        "habilidades": [
+            "Liquid ooze",
+            "Sticky hold",
+            "Gluttony"
+        ]
+    },
+    {
+        "nombre": "Swalot",
+        "habilidades": [
+            "Liquid ooze",
+            "Sticky hold",
+            "Gluttony"
+        ]
+    },
+    {
+        "nombre": "Carvanha",
+        "habilidades": [
+            "Rough skin",
+            "Speed boost"
+        ]
+    },
+    {
+        "nombre": "Sharpedo",
+        "habilidades": [
+            "Rough skin",
+            "Speed boost"
+        ]
+    },
+    {
+        "nombre": "Wailmer",
+        "habilidades": [
+            "Water veil",
+            "Oblivious",
+            "Pressure"
+        ]
+    },
+    {
+        "nombre": "Wailord",
+        "habilidades": [
+            "Water veil",
+            "Oblivious",
+            "Pressure"
+        ]
+    },
+    {
+        "nombre": "Numel",
+        "habilidades": [
+            "Oblivious",
+            "Simple",
+            "Own tempo"
+        ]
+    },
+    {
+        "nombre": "Camerupt",
+        "habilidades": [
+            "Magma armor",
+            "Solid rock",
+            "Anger point"
+        ]
+    },
+    {
+        "nombre": "Torkoal",
+        "habilidades": [
+            "White smoke",
+            "Drought",
+            "Shell armor"
+        ]
+    },
+    {
+        "nombre": "Spoink",
+        "habilidades": [
+            "Thick fat",
+            "Own tempo",
+            "Gluttony"
+        ]
+    },
+    {
+        "nombre": "Grumpig",
+        "habilidades": [
+            "Thick fat",
+            "Own tempo",
+            "Gluttony"
+        ]
+    },
+    {
+        "nombre": "Spinda",
+        "habilidades": [
+            "Own tempo",
+            "Tangled feet",
+            "Contrary"
+        ]
+    },
+    {
+        "nombre": "Trapinch",
+        "habilidades": [
+            "Hyper cutter",
+            "Arena trap",
+            "Sheer force"
+        ]
+    },
+    {
+        "nombre": "Vibrava",
+        "habilidades": [
+            "Levitate"
+        ]
+    },
+    {
+        "nombre": "Flygon",
+        "habilidades": [
+            "Levitate"
+        ]
+    },
+    {
+        "nombre": "Cacnea",
+        "habilidades": [
+            "Sand veil",
+            "Water absorb"
+        ]
+    },
+    {
+        "nombre": "Cacturne",
+        "habilidades": [
+            "Sand veil",
+            "Water absorb"
+        ]
+    },
+    {
+        "nombre": "Swablu",
+        "habilidades": [
+            "Natural cure",
+            "Cloud nine"
+        ]
+    },
+    {
+        "nombre": "Altaria",
+        "habilidades": [
+            "Natural cure",
+            "Cloud nine"
+        ]
+    },
+    {
+        "nombre": "Zangoose",
+        "habilidades": [
+            "Immunity",
+            "Toxic boost"
+        ]
+    },
+    {
+        "nombre": "Seviper",
+        "habilidades": [
+            "Shed skin",
+            "Infiltrator"
+        ]
+    },
+    {
+        "nombre": "Lunatone",
+        "habilidades": [
+            "Levitate"
+        ]
+    },
+    {
+        "nombre": "Solrock",
+        "habilidades": [
+            "Levitate"
+        ]
+    },
+    {
+        "nombre": "Barboach",
+        "habilidades": [
+            "Oblivious",
+            "Anticipation",
+            "Hydration"
+        ]
+    },
+    {
+        "nombre": "Whiscash",
+        "habilidades": [
+            "Oblivious",
+            "Anticipation",
+            "Hydration"
+        ]
+    },
+    {
+        "nombre": "Corphish",
+        "habilidades": [
+            "Hyper cutter",
+            "Shell armor",
+            "Adaptability"
+        ]
+    },
+    {
+        "nombre": "Crawdaunt",
+        "habilidades": [
+            "Hyper cutter",
+            "Shell armor",
+            "Adaptability"
+        ]
+    },
+    {
+        "nombre": "Baltoy",
+        "habilidades": [
+            "Levitate"
+        ]
+    },
+    {
+        "nombre": "Claydol",
+        "habilidades": [
+            "Levitate"
+        ]
+    },
+    {
+        "nombre": "Lileep",
+        "habilidades": [
+            "Suction cups",
+            "Storm drain"
+        ]
+    },
+    {
+        "nombre": "Cradily",
+        "habilidades": [
+            "Suction cups",
+            "Storm drain"
+        ]
+    },
+    {
+        "nombre": "Anorith",
+        "habilidades": [
+            "Battle armor",
+            "Swift swim"
+        ]
+    },
+    {
+        "nombre": "Armaldo",
+        "habilidades": [
+            "Battle armor",
+            "Swift swim"
+        ]
+    },
+    {
+        "nombre": "Feebas",
+        "habilidades": [
+            "Swift swim",
+            "Oblivious",
+            "Adaptability"
+        ]
+    },
+    {
+        "nombre": "Milotic",
+        "habilidades": [
+            "Marvel scale",
+            "Competitive",
+            "Cute charm"
+        ]
+    },
+    {
+        "nombre": "Castform",
+        "habilidades": [
+            "Forecast"
+        ]
+    },
+    {
+        "nombre": "Kecleon",
+        "habilidades": [
+            "Color change",
+            "Protean"
+        ]
+    },
+    {
+        "nombre": "Shuppet",
+        "habilidades": [
+            "Insomnia",
+            "Frisk",
+            "Cursed body"
+        ]
+    },
+    {
+        "nombre": "Banette",
+        "habilidades": [
+            "Insomnia",
+            "Frisk",
+            "Cursed body"
+        ]
+    },
+    {
+        "nombre": "Duskull",
+        "habilidades": [
+            "Levitate",
+            "Frisk"
+        ]
+    },
+    {
+        "nombre": "Dusclops",
+        "habilidades": [
+            "Pressure",
+            "Frisk"
+        ]
+    },
+    {
+        "nombre": "Tropius",
+        "habilidades": [
+            "Chlorophyll",
+            "Solar power",
+            "Harvest"
+        ]
+    },
+    {
+        "nombre": "Chimecho",
+        "habilidades": [
+            "Levitate"
+        ]
+    },
+    {
+        "nombre": "Absol",
+        "habilidades": [
+            "Pressure",
+            "Super luck",
+            "Justified"
+        ]
+    },
+    {
+        "nombre": "Wynaut",
+        "habilidades": [
+            "Shadow tag",
+            "Telepathy"
+        ]
+    },
+    {
+        "nombre": "Snorunt",
+        "habilidades": [
+            "Inner focus",
+            "Ice body",
+            "Moody"
+        ]
+    },
+    {
+        "nombre": "Glalie",
+        "habilidades": [
+            "Inner focus",
+            "Ice body",
+            "Moody"
+        ]
+    },
+    {
+        "nombre": "Spheal",
+        "habilidades": [
+            "Thick fat",
+            "Ice body",
+            "Oblivious"
+        ]
+    },
+    {
+        "nombre": "Sealeo",
+        "habilidades": [
+            "Thick fat",
+            "Ice body",
+            "Oblivious"
+        ]
+    },
+    {
+        "nombre": "Walrein",
+        "habilidades": [
+            "Thick fat",
+            "Ice body",
+            "Oblivious"
+        ]
+    },
+    {
+        "nombre": "Clamperl",
+        "habilidades": [
+            "Shell armor",
+            "Rattled"
+        ]
+    },
+    {
+        "nombre": "Huntail",
+        "habilidades": [
+            "Swift swim",
+            "Water veil"
+        ]
+    },
+    {
+        "nombre": "Gorebyss",
+        "habilidades": [
+            "Swift swim",
+            "Hydration"
+        ]
+    },
+    {
+        "nombre": "Relicanth",
+        "habilidades": [
+            "Swift swim",
+            "Rock head",
+            "Sturdy"
+        ]
+    },
+    {
+        "nombre": "Luvdisc",
+        "habilidades": [
+            "Swift swim",
+            "Hydration"
+        ]
+    },
+    {
+        "nombre": "Bagon",
+        "habilidades": [
+            "Rock head",
+            "Sheer force"
+        ]
+    },
+    {
+        "nombre": "Shelgon",
+        "habilidades": [
+            "Rock head",
+            "Overcoat"
+        ]
+    },
+    {
+        "nombre": "Salamence",
+        "habilidades": [
+            "Intimidate",
+            "Moxie"
+        ]
+    },
+    {
+        "nombre": "Beldum",
+        "habilidades": [
+            "Clear body",
+            "Light metal"
+        ]
+    },
+    {
+        "nombre": "Metang",
+        "habilidades": [
+            "Clear body",
+            "Light metal"
+        ]
+    },
+    {
+        "nombre": "Metagross",
+        "habilidades": [
+            "Clear body",
+            "Light metal"
+        ]
+    },
+    {
+        "nombre": "Turtwig",
+        "habilidades": [
+            "Overgrow",
+            "Shell armor"
+        ]
+    },
+    {
+        "nombre": "Grotle",
+        "habilidades": [
+            "Overgrow",
+            "Shell armor"
+        ]
+    },
+    {
+        "nombre": "Torterra",
+        "habilidades": [
+            "Overgrow",
+            "Shell armor"
+        ]
+    },
+    {
+        "nombre": "Chimchar",
+        "habilidades": [
+            "Blaze",
+            "Iron fist"
+        ]
+    },
+    {
+        "nombre": "Monferno",
+        "habilidades": [
+            "Blaze",
+            "Iron fist"
+        ]
+    },
+    {
+        "nombre": "Infernape",
+        "habilidades": [
+            "Blaze",
+            "Iron fist"
+        ]
+    },
+    {
+        "nombre": "Piplup",
+        "habilidades": [
+            "Torrent",
+            "Competitive"
+        ]
+    },
+    {
+        "nombre": "Prinplup",
+        "habilidades": [
+            "Torrent",
+            "Competitive"
+        ]
+    },
+    {
+        "nombre": "Empoleon",
+        "habilidades": [
+            "Torrent",
+            "Competitive"
+        ]
+    },
+    {
+        "nombre": "Starly",
+        "habilidades": [
+            "Keen eye",
+            "Reckless"
+        ]
+    },
+    {
+        "nombre": "Staravia",
+        "habilidades": [
+            "Intimidate",
+            "Reckless"
+        ]
+    },
+    {
+        "nombre": "Staraptor",
+        "habilidades": [
+            "Intimidate",
+            "Reckless"
+        ]
+    },
+    {
+        "nombre": "Bidoof",
+        "habilidades": [
+            "Simple",
+            "Unaware",
+            "Moody"
+        ]
+    },
+    {
+        "nombre": "Bibarel",
+        "habilidades": [
+            "Simple",
+            "Unaware",
+            "Moody"
+        ]
+    },
+    {
+        "nombre": "Kricketot",
+        "habilidades": [
+            "Shed skin",
+            "Run away"
+        ]
+    },
+    {
+        "nombre": "Kricketune",
+        "habilidades": [
+            "Swarm",
+            "Technician"
+        ]
+    },
+    {
+        "nombre": "Shinx",
+        "habilidades": [
+            "Rivalry",
+            "Intimidate",
+            "Guts"
+        ]
+    },
+    {
+        "nombre": "Luxio",
+        "habilidades": [
+            "Rivalry",
+            "Intimidate",
+            "Guts"
+        ]
+    },
+    {
+        "nombre": "Luxray",
+        "habilidades": [
+            "Rivalry",
+            "Intimidate",
+            "Guts"
+        ]
+    },
+    {
+        "nombre": "Budew",
+        "habilidades": [
+            "Natural cure",
+            "Poison point",
+            "Leaf guard"
+        ]
+    },
+    {
+        "nombre": "Roserade",
+        "habilidades": [
+            "Natural cure",
+            "Poison point",
+            "Technician"
+        ]
+    },
+    {
+        "nombre": "Cranidos",
+        "habilidades": [
+            "Mold breaker",
+            "Sheer force"
+        ]
+    },
+    {
+        "nombre": "Rampardos",
+        "habilidades": [
+            "Mold breaker",
+            "Sheer force"
+        ]
+    },
+    {
+        "nombre": "Shieldon",
+        "habilidades": [
+            "Sturdy",
+            "Soundproof"
+        ]
+    },
+    {
+        "nombre": "Bastiodon",
+        "habilidades": [
+            "Sturdy",
+            "Soundproof"
+        ]
+    },
+    {
+        "nombre": "Burmy",
+        "habilidades": [
+            "Shed skin",
+            "Overcoat"
+        ]
+    },
+    {
+        "nombre": "Wormadam-plant",
+        "habilidades": [
+            "Anticipation",
+            "Overcoat"
+        ]
+    },
+    {
+        "nombre": "Mothim",
+        "habilidades": [
+            "Swarm",
+            "Tinted lens"
+        ]
+    },
+    {
+        "nombre": "Combee",
+        "habilidades": [
+            "Honey gather",
+            "Hustle"
+        ]
+    },
+    {
+        "nombre": "Vespiquen",
+        "habilidades": [
+            "Pressure",
+            "Unnerve"
+        ]
+    },
+    {
+        "nombre": "Pachirisu",
+        "habilidades": [
+            "Run away",
+            "Pickup",
+            "Volt absorb"
+        ]
+    },
+    {
+        "nombre": "Buizel",
+        "habilidades": [
+            "Swift swim",
+            "Water veil"
+        ]
+    },
+    {
+        "nombre": "Floatzel",
+        "habilidades": [
+            "Swift swim",
+            "Water veil"
+        ]
+    },
+    {
+        "nombre": "Cherubi",
+        "habilidades": [
+            "Chlorophyll"
+        ]
+    },
+    {
+        "nombre": "Cherrim",
+        "habilidades": [
+            "Flower gift"
+        ]
+    },
+    {
+        "nombre": "Shellos",
+        "habilidades": [
+            "Sticky hold",
+            "Storm drain",
+            "Sand force"
+        ]
+    },
+    {
+        "nombre": "Gastrodon",
+        "habilidades": [
+            "Sticky hold",
+            "Storm drain",
+            "Sand force"
+        ]
+    },
+    {
+        "nombre": "Ambipom",
+        "habilidades": [
+            "Technician",
+            "Pickup",
+            "Skill link"
+        ]
+    },
+    {
+        "nombre": "Drifloon",
+        "habilidades": [
+            "Aftermath",
+            "Unburden",
+            "Flare boost"
+        ]
+    },
+    {
+        "nombre": "Drifblim",
+        "habilidades": [
+            "Aftermath",
+            "Unburden",
+            "Flare boost"
+        ]
+    },
+    {
+        "nombre": "Buneary",
+        "habilidades": [
+            "Run away",
+            "Klutz",
+            "Limber"
+        ]
+    },
+    {
+        "nombre": "Lopunny",
+        "habilidades": [
+            "Cute charm",
+            "Klutz",
+            "Limber"
+        ]
+    },
+    {
+        "nombre": "Mismagius",
+        "habilidades": [
+            "Levitate"
+        ]
+    },
+    {
+        "nombre": "Honchkrow",
+        "habilidades": [
+            "Insomnia",
+            "Super luck",
+            "Moxie"
+        ]
+    },
+    {
+        "nombre": "Glameow",
+        "habilidades": [
+            "Limber",
+            "Own tempo",
+            "Keen eye"
+        ]
+    },
+    {
+        "nombre": "Purugly",
+        "habilidades": [
+            "Thick fat",
+            "Own tempo",
+            "Defiant"
+        ]
+    },
+    {
+        "nombre": "Chingling",
+        "habilidades": [
+            "Levitate"
+        ]
+    },
+    {
+        "nombre": "Stunky",
+        "habilidades": [
+            "Stench",
+            "Aftermath",
+            "Keen eye"
+        ]
+    },
+    {
+        "nombre": "Skuntank",
+        "habilidades": [
+            "Stench",
+            "Aftermath",
+            "Keen eye"
+        ]
+    },
+    {
+        "nombre": "Bronzor",
+        "habilidades": [
+            "Levitate",
+            "Heatproof",
+            "Heavy metal"
+        ]
+    },
+    {
+        "nombre": "Bronzong",
+        "habilidades": [
+            "Levitate",
+            "Heatproof",
+            "Heavy metal"
+        ]
+    },
+    {
+        "nombre": "Bonsly",
+        "habilidades": [
+            "Sturdy",
+            "Rock head",
+            "Rattled"
+        ]
+    },
+    {
+        "nombre": "Mime-jr",
+        "habilidades": [
+            "Soundproof",
+            "Filter",
+            "Technician"
+        ]
+    },
+    {
+        "nombre": "Happiny",
+        "habilidades": [
+            "Natural cure",
+            "Serene grace",
+            "Friend guard"
+        ]
+    },
+    {
+        "nombre": "Chatot",
+        "habilidades": [
+            "Keen eye",
+            "Tangled feet",
+            "Big pecks"
+        ]
+    },
+    {
+        "nombre": "Spiritomb",
+        "habilidades": [
+            "Pressure",
+            "Infiltrator"
+        ]
+    },
+    {
+        "nombre": "Gible",
+        "habilidades": [
+            "Sand veil",
+            "Rough skin"
+        ]
+    },
+    {
+        "nombre": "Gabite",
+        "habilidades": [
+            "Sand veil",
+            "Rough skin"
+        ]
+    },
+    {
+        "nombre": "Garchomp",
+        "habilidades": [
+            "Sand veil",
+            "Rough skin"
+        ]
+    },
+    {
+        "nombre": "Munchlax",
+        "habilidades": [
+            "Pickup",
+            "Thick fat",
+            "Gluttony"
+        ]
+    },
+    {
+        "nombre": "Riolu",
+        "habilidades": [
+            "Steadfast",
+            "Inner focus",
+            "Prankster"
+        ]
+    },
+    {
+        "nombre": "Lucario",
+        "habilidades": [
+            "Steadfast",
+            "Inner focus",
+            "Justified"
+        ]
+    },
+    {
+        "nombre": "Hippopotas",
+        "habilidades": [
+            "Sand stream",
+            "Sand force"
+        ]
+    },
+    {
+        "nombre": "Hippowdon",
+        "habilidades": [
+            "Sand stream",
+            "Sand force"
+        ]
+    },
+    {
+        "nombre": "Skorupi",
+        "habilidades": [
+            "Battle armor",
+            "Sniper",
+            "Keen eye"
+        ]
+    },
+    {
+        "nombre": "Drapion",
+        "habilidades": [
+            "Battle armor",
+            "Sniper",
+            "Keen eye"
+        ]
+    },
+    {
+        "nombre": "Croagunk",
+        "habilidades": [
+            "Anticipation",
+            "Dry skin",
+            "Poison touch"
+        ]
+    },
+    {
+        "nombre": "Toxicroak",
+        "habilidades": [
+            "Anticipation",
+            "Dry skin",
+            "Poison touch"
+        ]
+    },
+    {
+        "nombre": "Carnivine",
+        "habilidades": [
+            "Levitate"
+        ]
+    },
+    {
+        "nombre": "Finneon",
+        "habilidades": [
+            "Swift swim",
+            "Storm drain",
+            "Water veil"
+        ]
+    },
+    {
+        "nombre": "Lumineon",
+        "habilidades": [
+            "Swift swim",
+            "Storm drain",
+            "Water veil"
+        ]
+    },
+    {
+        "nombre": "Mantyke",
+        "habilidades": [
+            "Swift swim",
+            "Water absorb",
+            "Water veil"
+        ]
+    },
+    {
+        "nombre": "Snover",
+        "habilidades": [
+            "Snow warning",
+            "Soundproof"
+        ]
+    },
+    {
+        "nombre": "Abomasnow",
+        "habilidades": [
+            "Snow warning",
+            "Soundproof"
+        ]
+    },
+    {
+        "nombre": "Weavile",
+        "habilidades": [
+            "Pressure",
+            "Pickpocket"
+        ]
+    },
+    {
+        "nombre": "Magnezone",
+        "habilidades": [
+            "Magnet pull",
+            "Sturdy",
+            "Analytic"
+        ]
+    },
+    {
+        "nombre": "Lickilicky",
+        "habilidades": [
+            "Own tempo",
+            "Oblivious",
+            "Cloud nine"
+        ]
+    },
+    {
+        "nombre": "Rhyperior",
+        "habilidades": [
+            "Lightning rod",
+            "Solid rock",
+            "Reckless"
+        ]
+    },
+    {
+        "nombre": "Tangrowth",
+        "habilidades": [
+            "Chlorophyll",
+            "Leaf guard",
+            "Regenerator"
+        ]
+    },
+    {
+        "nombre": "Electivire",
+        "habilidades": [
+            "Motor drive",
+            "Vital spirit"
+        ]
+    },
+    {
+        "nombre": "Magmortar",
+        "habilidades": [
+            "Flame body",
+            "Vital spirit"
+        ]
+    },
+    {
+        "nombre": "Togekiss",
+        "habilidades": [
+            "Hustle",
+            "Serene grace",
+            "Super luck"
+        ]
+    },
+    {
+        "nombre": "Yanmega",
+        "habilidades": [
+            "Speed boost",
+            "Tinted lens",
+            "Frisk"
+        ]
+    },
+    {
+        "nombre": "Leafeon",
+        "habilidades": [
+            "Leaf guard",
+            "Chlorophyll"
+        ]
+    },
+    {
+        "nombre": "Glaceon",
+        "habilidades": [
+            "Snow cloak",
+            "Ice body"
+        ]
+    },
+    {
+        "nombre": "Gliscor",
+        "habilidades": [
+            "Hyper cutter",
+            "Sand veil",
+            "Poison heal"
+        ]
+    },
+    {
+        "nombre": "Mamoswine",
+        "habilidades": [
+            "Oblivious",
+            "Snow cloak",
+            "Thick fat"
+        ]
+    },
+    {
+        "nombre": "Porygon-z",
+        "habilidades": [
+            "Adaptability",
+            "Download",
+            "Analytic"
+        ]
+    },
+    {
+        "nombre": "Gallade",
+        "habilidades": [
+            "Steadfast",
+            "Sharpness",
+            "Justified"
+        ]
+    },
+    {
+        "nombre": "Probopass",
+        "habilidades": [
+            "Sturdy",
+            "Magnet pull",
+            "Sand force"
+        ]
+    },
+    {
+        "nombre": "Dusknoir",
+        "habilidades": [
+            "Pressure",
+            "Frisk"
+        ]
+    },
+    {
+        "nombre": "Froslass",
+        "habilidades": [
+            "Snow cloak",
+            "Cursed body"
+        ]
+    },
+    {
+        "nombre": "Rotom",
+        "habilidades": [
+            "Levitate"
+        ]
+    },
+    {
+        "nombre": "Uxie",
+        "habilidades": [
+            "Levitate"
+        ]
+    },
+    {
+        "nombre": "Snivy",
+        "habilidades": [
+            "Overgrow",
+            "Contrary"
+        ]
+    },
+    {
+        "nombre": "Servine",
+        "habilidades": [
+            "Overgrow",
+            "Contrary"
+        ]
+    },
+    {
+        "nombre": "Serperior",
+        "habilidades": [
+            "Overgrow",
+            "Contrary"
+        ]
+    },
+    {
+        "nombre": "Tepig",
+        "habilidades": [
+            "Blaze",
+            "Thick fat"
+        ]
+    },
+    {
+        "nombre": "Pignite",
+        "habilidades": [
+            "Blaze",
+            "Thick fat"
+        ]
+    },
+    {
+        "nombre": "Emboar",
+        "habilidades": [
+            "Blaze",
+            "Reckless"
+        ]
+    },
+    {
+        "nombre": "Oshawott",
+        "habilidades": [
+            "Torrent",
+            "Shell armor"
+        ]
+    },
+    {
+        "nombre": "Dewott",
+        "habilidades": [
+            "Torrent",
+            "Shell armor"
+        ]
+    },
+    {
+        "nombre": "Samurott",
+        "habilidades": [
+            "Torrent",
+            "Shell armor"
+        ]
+    },
+    {
+        "nombre": "Patrat",
+        "habilidades": [
+            "Run away",
+            "Keen eye",
+            "Analytic"
+        ]
+    },
+    {
+        "nombre": "Watchog",
+        "habilidades": [
+            "Illuminate",
+            "Keen eye",
+            "Analytic"
+        ]
+    },
+    {
+        "nombre": "Lillipup",
+        "habilidades": [
+            "Vital spirit",
+            "Pickup",
+            "Run away"
+        ]
+    },
+    {
+        "nombre": "Herdier",
+        "habilidades": [
+            "Intimidate",
+            "Sand rush",
+            "Scrappy"
+        ]
+    },
+    {
+        "nombre": "Stoutland",
+        "habilidades": [
+            "Intimidate",
+            "Sand rush",
+            "Scrappy"
+        ]
+    },
+    {
+        "nombre": "Purrloin",
+        "habilidades": [
+            "Limber",
+            "Unburden",
+            "Prankster"
+        ]
+    },
+    {
+        "nombre": "Liepard",
+        "habilidades": [
+            "Limber",
+            "Unburden",
+            "Prankster"
+        ]
+    },
+    {
+        "nombre": "Pansage",
+        "habilidades": [
+            "Gluttony",
+            "Overgrow"
+        ]
+    },
+    {
+        "nombre": "Simisage",
+        "habilidades": [
+            "Gluttony",
+            "Overgrow"
+        ]
+    },
+    {
+        "nombre": "Pansear",
+        "habilidades": [
+            "Gluttony",
+            "Blaze"
+        ]
+    },
+    {
+        "nombre": "Simisear",
+        "habilidades": [
+            "Gluttony",
+            "Blaze"
+        ]
+    },
+    {
+        "nombre": "Panpour",
+        "habilidades": [
+            "Gluttony",
+            "Torrent"
+        ]
+    },
+    {
+        "nombre": "Simipour",
+        "habilidades": [
+            "Gluttony",
+            "Torrent"
+        ]
+    },
+    {
+        "nombre": "Munna",
+        "habilidades": [
+            "Forewarn",
+            "Synchronize",
+            "Telepathy"
+        ]
+    },
+    {
+        "nombre": "Musharna",
+        "habilidades": [
+            "Forewarn",
+            "Synchronize",
+            "Telepathy"
+        ]
+    },
+    {
+        "nombre": "Pidove",
+        "habilidades": [
+            "Big pecks",
+            "Super luck",
+            "Rivalry"
+        ]
+    },
+    {
+        "nombre": "Tranquill",
+        "habilidades": [
+            "Big pecks",
+            "Super luck",
+            "Rivalry"
+        ]
+    },
+    {
+        "nombre": "Unfezant",
+        "habilidades": [
+            "Big pecks",
+            "Super luck",
+            "Rivalry"
+        ]
+    },
+    {
+        "nombre": "Blitzle",
+        "habilidades": [
+            "Lightning rod",
+            "Motor drive",
+            "Sap sipper"
+        ]
+    },
+    {
+        "nombre": "Zebstrika",
+        "habilidades": [
+            "Lightning rod",
+            "Motor drive",
+            "Sap sipper"
+        ]
+    },
+    {
+        "nombre": "Roggenrola",
+        "habilidades": [
+            "Sturdy",
+            "Weak armor",
+            "Sand force"
+        ]
+    },
+    {
+        "nombre": "Boldore",
+        "habilidades": [
+            "Sturdy",
+            "Weak armor",
+            "Sand force"
+        ]
+    },
+    {
+        "nombre": "Gigalith",
+        "habilidades": [
+            "Sturdy",
+            "Sand stream",
+            "Sand force"
+        ]
+    },
+    {
+        "nombre": "Woobat",
+        "habilidades": [
+            "Unaware",
+            "Klutz",
+            "Simple"
+        ]
+    },
+    {
+        "nombre": "Swoobat",
+        "habilidades": [
+            "Unaware",
+            "Klutz",
+            "Simple"
+        ]
+    },
+    {
+        "nombre": "Drilbur",
+        "habilidades": [
+            "Sand rush",
+            "Sand force",
+            "Mold breaker"
+        ]
+    },
+    {
+        "nombre": "Excadrill",
+        "habilidades": [
+            "Sand rush",
+            "Sand force",
+            "Mold breaker"
+        ]
+    },
+    {
+        "nombre": "Audino",
+        "habilidades": [
+            "Healer",
+            "Regenerator",
+            "Klutz"
+        ]
+    },
+    {
+        "nombre": "Timburr",
+        "habilidades": [
+            "Guts",
+            "Sheer force",
+            "Iron fist"
+        ]
+    },
+    {
+        "nombre": "Gurdurr",
+        "habilidades": [
+            "Guts",
+            "Sheer force",
+            "Iron fist"
+        ]
+    },
+    {
+        "nombre": "Conkeldurr",
+        "habilidades": [
+            "Guts",
+            "Sheer force",
+            "Iron fist"
+        ]
+    },
+    {
+        "nombre": "Tympole",
+        "habilidades": [
+            "Swift swim",
+            "Hydration",
+            "Water absorb"
+        ]
+    },
+    {
+        "nombre": "Palpitoad",
+        "habilidades": [
+            "Swift swim",
+            "Hydration",
+            "Water absorb"
+        ]
+    },
+    {
+        "nombre": "Seismitoad",
+        "habilidades": [
+            "Swift swim",
+            "Poison touch",
+            "Water absorb"
+        ]
+    },
+    {
+        "nombre": "Throh",
+        "habilidades": [
+            "Guts",
+            "Inner focus",
+            "Mold breaker"
+        ]
+    },
+    {
+        "nombre": "Sawk",
+        "habilidades": [
+            "Sturdy",
+            "Inner focus",
+            "Mold breaker"
+        ]
+    },
+    {
+        "nombre": "Sewaddle",
+        "habilidades": [
+            "Swarm",
+            "Chlorophyll",
+            "Overcoat"
+        ]
+    },
+    {
+        "nombre": "Swadloon",
+        "habilidades": [
+            "Leaf guard",
+            "Chlorophyll",
+            "Overcoat"
+        ]
+    },
+    {
+        "nombre": "Leavanny",
+        "habilidades": [
+            "Swarm",
+            "Chlorophyll",
+            "Overcoat"
+        ]
+    },
+    {
+        "nombre": "Venipede",
+        "habilidades": [
+            "Poison point",
+            "Swarm",
+            "Speed boost"
+        ]
+    },
+    {
+        "nombre": "Whirlipede",
+        "habilidades": [
+            "Poison point",
+            "Swarm",
+            "Speed boost"
+        ]
+    },
+    {
+        "nombre": "Scolipede",
+        "habilidades": [
+            "Poison point",
+            "Swarm",
+            "Speed boost"
+        ]
+    },
+    {
+        "nombre": "Cottonee",
+        "habilidades": [
+            "Prankster",
+            "Infiltrator",
+            "Chlorophyll"
+        ]
+    },
+    {
+        "nombre": "Whimsicott",
+        "habilidades": [
+            "Prankster",
+            "Infiltrator",
+            "Chlorophyll"
+        ]
+    },
+    {
+        "nombre": "Petilil",
+        "habilidades": [
+            "Chlorophyll",
+            "Own tempo",
+            "Leaf guard"
+        ]
+    },
+    {
+        "nombre": "Lilligant",
+        "habilidades": [
+            "Chlorophyll",
+            "Own tempo",
+            "Leaf guard"
+        ]
+    },
+    {
+        "nombre": "Basculin-red-striped",
+        "habilidades": [
+            "Reckless",
+            "Adaptability",
+            "Mold breaker"
+        ]
+    },
+    {
+        "nombre": "Sandile",
+        "habilidades": [
+            "Intimidate",
+            "Moxie",
+            "Anger point"
+        ]
+    },
+    {
+        "nombre": "Krokorok",
+        "habilidades": [
+            "Intimidate",
+            "Moxie",
+            "Anger point"
+        ]
+    },
+    {
+        "nombre": "Krookodile",
+        "habilidades": [
+            "Intimidate",
+            "Moxie",
+            "Anger point"
+        ]
+    },
+    {
+        "nombre": "Darumaka",
+        "habilidades": [
+            "Hustle",
+            "Inner focus"
+        ]
+    },
+    {
+        "nombre": "Darmanitan-standard",
+        "habilidades": [
+            "Sheer force",
+            "Zen mode"
+        ]
+    },
+    {
+        "nombre": "Maractus",
+        "habilidades": [
+            "Water absorb",
+            "Chlorophyll",
+            "Storm drain"
+        ]
+    },
+    {
+        "nombre": "Dwebble",
+        "habilidades": [
+            "Sturdy",
+            "Shell armor",
+            "Weak armor"
+        ]
+    },
+    {
+        "nombre": "Crustle",
+        "habilidades": [
+            "Sturdy",
+            "Shell armor",
+            "Weak armor"
+        ]
+    },
+    {
+        "nombre": "Scraggy",
+        "habilidades": [
+            "Shed skin",
+            "Moxie",
+            "Intimidate"
+        ]
+    },
+    {
+        "nombre": "Scrafty",
+        "habilidades": [
+            "Shed skin",
+            "Moxie",
+            "Intimidate"
+        ]
+    },
+    {
+        "nombre": "Sigilyph",
+        "habilidades": [
+            "Wonder skin",
+            "Magic guard",
+            "Tinted lens"
+        ]
+    },
+    {
+        "nombre": "Yamask",
+        "habilidades": [
+            "Mummy"
+        ]
+    },
+    {
+        "nombre": "Cofagrigus",
+        "habilidades": [
+            "Mummy"
+        ]
+    },
+    {
+        "nombre": "Tirtouga",
+        "habilidades": [
+            "Solid rock",
+            "Sturdy",
+            "Swift swim"
+        ]
+    },
+    {
+        "nombre": "Carracosta",
+        "habilidades": [
+            "Solid rock",
+            "Sturdy",
+            "Swift swim"
+        ]
+    },
+    {
+        "nombre": "Archen",
+        "habilidades": [
+            "Defeatist"
+        ]
+    },
+    {
+        "nombre": "Archeops",
+        "habilidades": [
+            "Defeatist"
+        ]
+    },
+    {
+        "nombre": "Trubbish",
+        "habilidades": [
+            "Stench",
+            "Sticky hold",
+            "Aftermath"
+        ]
+    },
+    {
+        "nombre": "Garbodor",
+        "habilidades": [
+            "Stench",
+            "Weak armor",
+            "Aftermath"
+        ]
+    },
+    {
+        "nombre": "Zorua",
+        "habilidades": [
+            "Illusion"
+        ]
+    },
+    {
+        "nombre": "Zoroark",
+        "habilidades": [
+            "Illusion"
+        ]
+    },
+    {
+        "nombre": "Minccino",
+        "habilidades": [
+            "Cute charm",
+            "Technician",
+            "Skill link"
+        ]
+    },
+    {
+        "nombre": "Cinccino",
+        "habilidades": [
+            "Cute charm",
+            "Technician",
+            "Skill link"
+        ]
+    },
+    {
+        "nombre": "Gothita",
+        "habilidades": [
+            "Frisk",
+            "Competitive",
+            "Shadow tag"
+        ]
+    },
+    {
+        "nombre": "Gothorita",
+        "habilidades": [
+            "Frisk",
+            "Competitive",
+            "Shadow tag"
+        ]
+    },
+    {
+        "nombre": "Gothitelle",
+        "habilidades": [
+            "Frisk",
+            "Competitive",
+            "Shadow tag"
+        ]
+    },
+    {
+        "nombre": "Solosis",
+        "habilidades": [
+            "Overcoat",
+            "Magic guard",
+            "Regenerator"
+        ]
+    },
+    {
+        "nombre": "Duosion",
+        "habilidades": [
+            "Overcoat",
+            "Magic guard",
+            "Regenerator"
+        ]
+    },
+    {
+        "nombre": "Reuniclus",
+        "habilidades": [
+            "Overcoat",
+            "Magic guard",
+            "Regenerator"
+        ]
+    },
+    {
+        "nombre": "Ducklett",
+        "habilidades": [
+            "Keen eye",
+            "Big pecks",
+            "Hydration"
+        ]
+    },
+    {
+        "nombre": "Swanna",
+        "habilidades": [
+            "Keen eye",
+            "Big pecks",
+            "Hydration"
+        ]
+    },
+    {
+        "nombre": "Vanillite",
+        "habilidades": [
+            "Ice body",
+            "Snow cloak",
+            "Weak armor"
+        ]
+    },
+    {
+        "nombre": "Vanillish",
+        "habilidades": [
+            "Ice body",
+            "Snow cloak",
+            "Weak armor"
+        ]
+    },
+    {
+        "nombre": "Vanilluxe",
+        "habilidades": [
+            "Ice body",
+            "Snow warning",
+            "Weak armor"
+        ]
+    },
+    {
+        "nombre": "Deerling",
+        "habilidades": [
+            "Chlorophyll",
+            "Sap sipper",
+            "Serene grace"
+        ]
+    },
+    {
+        "nombre": "Sawsbuck",
+        "habilidades": [
+            "Chlorophyll",
+            "Sap sipper",
+            "Serene grace"
+        ]
+    },
+    {
+        "nombre": "Emolga",
+        "habilidades": [
+            "Static",
+            "Motor drive"
+        ]
+    },
+    {
+        "nombre": "Karrablast",
+        "habilidades": [
+            "Swarm",
+            "Shed skin",
+            "No guard"
+        ]
+    },
+    {
+        "nombre": "Escavalier",
+        "habilidades": [
+            "Swarm",
+            "Shell armor",
+            "Overcoat"
+        ]
+    },
+    {
+        "nombre": "Foongus",
+        "habilidades": [
+            "Effect spore",
+            "Regenerator"
+        ]
+    },
+    {
+        "nombre": "Amoonguss",
+        "habilidades": [
+            "Effect spore",
+            "Regenerator"
+        ]
+    },
+    {
+        "nombre": "Frillish",
+        "habilidades": [
+            "Water absorb",
+            "Cursed body",
+            "Damp"
+        ]
+    },
+    {
+        "nombre": "Jellicent",
+        "habilidades": [
+            "Water absorb",
+            "Cursed body",
+            "Damp"
+        ]
+    },
+    {
+        "nombre": "Alomomola",
+        "habilidades": [
+            "Healer",
+            "Hydration",
+            "Regenerator"
+        ]
+    },
+    {
+        "nombre": "Joltik",
+        "habilidades": [
+            "Compound eyes",
+            "Unnerve",
+            "Swarm"
+        ]
+    },
+    {
+        "nombre": "Galvantula",
+        "habilidades": [
+            "Compound eyes",
+            "Unnerve",
+            "Swarm"
+        ]
+    },
+    {
+        "nombre": "Ferroseed",
+        "habilidades": [
+            "Iron barbs"
+        ]
+    },
+    {
+        "nombre": "Ferrothorn",
+        "habilidades": [
+            "Iron barbs",
+            "Anticipation"
+        ]
+    },
+    {
+        "nombre": "Klink",
+        "habilidades": [
+            "Plus",
+            "Minus",
+            "Clear body"
+        ]
+    },
+    {
+        "nombre": "Klang",
+        "habilidades": [
+            "Plus",
+            "Minus",
+            "Clear body"
+        ]
+    },
+    {
+        "nombre": "Klinklang",
+        "habilidades": [
+            "Plus",
+            "Minus",
+            "Clear body"
+        ]
+    },
+    {
+        "nombre": "Tynamo",
+        "habilidades": [
+            "Levitate"
+        ]
+    },
+    {
+        "nombre": "Eelektrik",
+        "habilidades": [
+            "Levitate"
+        ]
+    },
+    {
+        "nombre": "Eelektross",
+        "habilidades": [
+            "Levitate"
+        ]
+    },
+    {
+        "nombre": "Elgyem",
+        "habilidades": [
+            "Telepathy",
+            "Synchronize",
+            "Analytic"
+        ]
+    },
+    {
+        "nombre": "Beheeyem",
+        "habilidades": [
+            "Telepathy",
+            "Synchronize",
+            "Analytic"
+        ]
+    },
+    {
+        "nombre": "Litwick",
+        "habilidades": [
+            "Flash fire",
+            "Flame body",
+            "Infiltrator"
+        ]
+    },
+    {
+        "nombre": "Lampent",
+        "habilidades": [
+            "Flash fire",
+            "Flame body",
+            "Infiltrator"
+        ]
+    },
+    {
+        "nombre": "Chandelure",
+        "habilidades": [
+            "Flash fire",
+            "Flame body",
+            "Infiltrator"
+        ]
+    },
+    {
+        "nombre": "Axew",
+        "habilidades": [
+            "Rivalry",
+            "Mold breaker",
+            "Unnerve"
+        ]
+    },
+    {
+        "nombre": "Fraxure",
+        "habilidades": [
+            "Rivalry",
+            "Mold breaker",
+            "Unnerve"
+        ]
+    },
+    {
+        "nombre": "Haxorus",
+        "habilidades": [
+            "Rivalry",
+            "Mold breaker",
+            "Unnerve"
+        ]
+    },
+    {
+        "nombre": "Cubchoo",
+        "habilidades": [
+            "Snow cloak",
+            "Slush rush",
+            "Rattled"
+        ]
+    },
+    {
+        "nombre": "Beartic",
+        "habilidades": [
+            "Snow cloak",
+            "Slush rush",
+            "Swift swim"
+        ]
+    },
+    {
+        "nombre": "Cryogonal",
+        "habilidades": [
+            "Levitate"
+        ]
+    },
+    {
+        "nombre": "Shelmet",
+        "habilidades": [
+            "Hydration",
+            "Shell armor",
+            "Overcoat"
+        ]
+    },
+    {
+        "nombre": "Accelgor",
+        "habilidades": [
+            "Hydration",
+            "Sticky hold",
+            "Unburden"
+        ]
+    },
+    {
+        "nombre": "Stunfisk",
+        "habilidades": [
+            "Static",
+            "Limber",
+            "Sand veil"
+        ]
+    },
+    {
+        "nombre": "Mienfoo",
+        "habilidades": [
+            "Inner focus",
+            "Regenerator",
+            "Reckless"
+        ]
+    },
+    {
+        "nombre": "Mienshao",
+        "habilidades": [
+            "Inner focus",
+            "Regenerator",
+            "Reckless"
+        ]
+    },
+    {
+        "nombre": "Druddigon",
+        "habilidades": [
+            "Rough skin",
+            "Sheer force",
+            "Mold breaker"
+        ]
+    },
+    {
+        "nombre": "Golett",
+        "habilidades": [
+            "Iron fist",
+            "Klutz",
+            "No guard"
+        ]
+    },
+    {
+        "nombre": "Golurk",
+        "habilidades": [
+            "Iron fist",
+            "Klutz",
+            "No guard"
+        ]
+    },
+    {
+        "nombre": "Pawniard",
+        "habilidades": [
+            "Defiant",
+            "Inner focus",
+            "Pressure"
+        ]
+    },
+    {
+        "nombre": "Bisharp",
+        "habilidades": [
+            "Defiant",
+            "Inner focus",
+            "Pressure"
+        ]
+    },
+    {
+        "nombre": "Bouffalant",
+        "habilidades": [
+            "Reckless",
+            "Sap sipper",
+            "Soundproof"
+        ]
+    },
+    {
+        "nombre": "Rufflet",
+        "habilidades": [
+            "Keen eye",
+            "Sheer force",
+            "Hustle"
+        ]
+    },
+    {
+        "nombre": "Braviary",
+        "habilidades": [
+            "Keen eye",
+            "Sheer force",
+            "Defiant"
+        ]
+    },
+    {
+        "nombre": "Vullaby",
+        "habilidades": [
+            "Big pecks",
+            "Overcoat",
+            "Weak armor"
+        ]
+    },
+    {
+        "nombre": "Mandibuzz",
+        "habilidades": [
+            "Big pecks",
+            "Overcoat",
+            "Weak armor"
+        ]
+    },
+    {
+        "nombre": "Heatmor",
+        "habilidades": [
+            "Gluttony",
+            "Flash fire",
+            "White smoke"
+        ]
+    },
+    {
+        "nombre": "Durant",
+        "habilidades": [
+            "Swarm",
+            "Hustle",
+            "Truant"
+        ]
+    },
+    {
+        "nombre": "Deino",
+        "habilidades": [
+            "Hustle"
+        ]
+    },
+    {
+        "nombre": "Zweilous",
+        "habilidades": [
+            "Hustle"
+        ]
+    },
+    {
+        "nombre": "Hydreigon",
+        "habilidades": [
+            "Levitate"
+        ]
+    },
+    {
+        "nombre": "Larvesta",
+        "habilidades": [
+            "Flame body",
+            "Swarm"
+        ]
+    },
+    {
+        "nombre": "Volcarona",
+        "habilidades": [
+            "Flame body",
+            "Swarm"
+        ]
+    },
+    {
+        "nombre": "Chespin",
+        "habilidades": [
+            "Overgrow",
+            "Bulletproof"
+        ]
+    },
+    {
+        "nombre": "Quilladin",
+        "habilidades": [
+            "Overgrow",
+            "Bulletproof"
+        ]
+    },
+    {
+        "nombre": "Chesnaught",
+        "habilidades": [
+            "Overgrow",
+            "Bulletproof"
+        ]
+    },
+    {
+        "nombre": "Fennekin",
+        "habilidades": [
+            "Blaze",
+            "Magician"
+        ]
+    },
+    {
+        "nombre": "Braixen",
+        "habilidades": [
+            "Blaze",
+            "Magician"
+        ]
+    },
+    {
+        "nombre": "Delphox",
+        "habilidades": [
+            "Blaze",
+            "Magician"
+        ]
+    },
+    {
+        "nombre": "Froakie",
+        "habilidades": [
+            "Torrent",
+            "Protean"
+        ]
+    },
+    {
+        "nombre": "Frogadier",
+        "habilidades": [
+            "Torrent",
+            "Protean"
+        ]
+    },
+    {
+        "nombre": "Greninja",
+        "habilidades": [
+            "Torrent",
+            "Protean"
+        ]
+    },
+    {
+        "nombre": "Bunnelby",
+        "habilidades": [
+            "Pickup",
+            "Cheek pouch",
+            "Huge power"
+        ]
+    },
+    {
+        "nombre": "Diggersby",
+        "habilidades": [
+            "Pickup",
+            "Cheek pouch",
+            "Huge power"
+        ]
+    },
+    {
+        "nombre": "Fletchling",
+        "habilidades": [
+            "Big pecks",
+            "Gale wings"
+        ]
+    },
+    {
+        "nombre": "Fletchinder",
+        "habilidades": [
+            "Flame body",
+            "Gale wings"
+        ]
+    },
+    {
+        "nombre": "Talonflame",
+        "habilidades": [
+            "Flame body",
+            "Gale wings"
+        ]
+    },
+    {
+        "nombre": "Scatterbug",
+        "habilidades": [
+            "Shield dust",
+            "Compound eyes",
+            "Friend guard"
+        ]
+    },
+    {
+        "nombre": "Spewpa",
+        "habilidades": [
+            "Shed skin",
+            "Friend guard"
+        ]
+    },
+    {
+        "nombre": "Vivillon",
+        "habilidades": [
+            "Shield dust",
+            "Compound eyes",
+            "Friend guard"
+        ]
+    },
+    {
+        "nombre": "Litleo",
+        "habilidades": [
+            "Rivalry",
+            "Unnerve",
+            "Moxie"
+        ]
+    },
+    {
+        "nombre": "Pyroar",
+        "habilidades": [
+            "Rivalry",
+            "Unnerve",
+            "Moxie"
+        ]
+    },
+    {
+        "nombre": "Flabebe",
+        "habilidades": [
+            "Flower veil",
+            "Symbiosis"
+        ]
+    },
+    {
+        "nombre": "Floette",
+        "habilidades": [
+            "Flower veil",
+            "Symbiosis"
+        ]
+    },
+    {
+        "nombre": "Florges",
+        "habilidades": [
+            "Flower veil",
+            "Symbiosis"
+        ]
+    },
+    {
+        "nombre": "Skiddo",
+        "habilidades": [
+            "Sap sipper",
+            "Grass pelt"
+        ]
+    },
+    {
+        "nombre": "Gogoat",
+        "habilidades": [
+            "Sap sipper",
+            "Grass pelt"
+        ]
+    },
+    {
+        "nombre": "Pancham",
+        "habilidades": [
+            "Iron fist",
+            "Mold breaker",
+            "Scrappy"
+        ]
+    },
+    {
+        "nombre": "Pangoro",
+        "habilidades": [
+            "Iron fist",
+            "Mold breaker",
+            "Scrappy"
+        ]
+    },
+    {
+        "nombre": "Furfrou",
+        "habilidades": [
+            "Fur coat"
+        ]
+    },
+    {
+        "nombre": "Espurr",
+        "habilidades": [
+            "Keen eye",
+            "Infiltrator",
+            "Own tempo"
+        ]
+    },
+    {
+        "nombre": "Meowstic-male",
+        "habilidades": [
+            "Keen eye",
+            "Infiltrator",
+            "Prankster"
+        ]
+    },
+    {
+        "nombre": "Honedge",
+        "habilidades": [
+            "No guard"
+        ]
+    },
+    {
+        "nombre": "Doublade",
+        "habilidades": [
+            "No guard"
+        ]
+    },
+    {
+        "nombre": "Aegislash-shield",
+        "habilidades": [
+            "Stance change"
+        ]
+    },
+    {
+        "nombre": "Spritzee",
+        "habilidades": [
+            "Healer",
+            "Aroma veil"
+        ]
+    },
+    {
+        "nombre": "Aromatisse",
+        "habilidades": [
+            "Healer",
+            "Aroma veil"
+        ]
+    },
+    {
+        "nombre": "Swirlix",
+        "habilidades": [
+            "Sweet veil",
+            "Unburden"
+        ]
+    },
+    {
+        "nombre": "Slurpuff",
+        "habilidades": [
+            "Sweet veil",
+            "Unburden"
+        ]
+    },
+    {
+        "nombre": "Inkay",
+        "habilidades": [
+            "Contrary",
+            "Suction cups",
+            "Infiltrator"
+        ]
+    },
+    {
+        "nombre": "Malamar",
+        "habilidades": [
+            "Contrary",
+            "Suction cups",
+            "Infiltrator"
+        ]
+    },
+    {
+        "nombre": "Binacle",
+        "habilidades": [
+            "Tough claws",
+            "Sniper",
+            "Pickpocket"
+        ]
+    },
+    {
+        "nombre": "Barbaracle",
+        "habilidades": [
+            "Tough claws",
+            "Sniper",
+            "Pickpocket"
+        ]
+    },
+    {
+        "nombre": "Skrelp",
+        "habilidades": [
+            "Poison point",
+            "Poison touch",
+            "Adaptability"
+        ]
+    },
+    {
+        "nombre": "Dragalge",
+        "habilidades": [
+            "Poison point",
+            "Poison touch",
+            "Adaptability"
+        ]
+    },
+    {
+        "nombre": "Clauncher",
+        "habilidades": [
+            "Mega launcher"
+        ]
+    },
+    {
+        "nombre": "Clawitzer",
+        "habilidades": [
+            "Mega launcher"
+        ]
+    },
+    {
+        "nombre": "Helioptile",
+        "habilidades": [
+            "Dry skin",
+            "Sand veil",
+            "Solar power"
+        ]
+    },
+    {
+        "nombre": "Heliolisk",
+        "habilidades": [
+            "Dry skin",
+            "Sand veil",
+            "Solar power"
+        ]
+    },
+    {
+        "nombre": "Tyrunt",
+        "habilidades": [
+            "Strong jaw",
+            "Sturdy"
+        ]
+    },
+    {
+        "nombre": "Tyrantrum",
+        "habilidades": [
+            "Strong jaw",
+            "Rock head"
+        ]
+    },
+    {
+        "nombre": "Amaura",
+        "habilidades": [
+            "Refrigerate",
+            "Snow warning"
+        ]
+    },
+    {
+        "nombre": "Aurorus",
+        "habilidades": [
+            "Refrigerate",
+            "Snow warning"
+        ]
+    },
+    {
+        "nombre": "Sylveon",
+        "habilidades": [
+            "Cute charm",
+            "Pixilate"
+        ]
+    },
+    {
+        "nombre": "Hawlucha",
+        "habilidades": [
+            "Limber",
+            "Unburden",
+            "Mold breaker"
+        ]
+    },
+    {
+        "nombre": "Dedenne",
+        "habilidades": [
+            "Cheek pouch",
+            "Pickup",
+            "Plus"
+        ]
+    },
+    {
+        "nombre": "Carbink",
+        "habilidades": [
+            "Clear body",
+            "Sturdy"
+        ]
+    },
+    {
+        "nombre": "Goomy",
+        "habilidades": [
+            "Sap sipper",
+            "Hydration",
+            "Gooey"
+        ]
+    },
+    {
+        "nombre": "Sliggoo",
+        "habilidades": [
+            "Sap sipper",
+            "Hydration",
+            "Gooey"
+        ]
+    },
+    {
+        "nombre": "Goodra",
+        "habilidades": [
+            "Sap sipper",
+            "Hydration",
+            "Gooey"
+        ]
+    },
+    {
+        "nombre": "Klefki",
+        "habilidades": [
+            "Prankster",
+            "Magician"
+        ]
+    },
+    {
+        "nombre": "Phantump",
+        "habilidades": [
+            "Natural cure",
+            "Frisk",
+            "Harvest"
+        ]
+    },
+    {
+        "nombre": "Trevenant",
+        "habilidades": [
+            "Natural cure",
+            "Frisk",
+            "Harvest"
+        ]
+    },
+    {
+        "nombre": "Pumpkaboo-average",
+        "habilidades": [
+            "Pickup",
+            "Frisk",
+            "Insomnia"
+        ]
+    },
+    {
+        "nombre": "Gourgeist-average",
+        "habilidades": [
+            "Pickup",
+            "Frisk",
+            "Insomnia"
+        ]
+    },
+    {
+        "nombre": "Bergmite",
+        "habilidades": [
+            "Own tempo",
+            "Ice body",
+            "Sturdy"
+        ]
+    },
+    {
+        "nombre": "Avalugg",
+        "habilidades": [
+            "Own tempo",
+            "Ice body",
+            "Sturdy"
+        ]
+    },
+    {
+        "nombre": "Noibat",
+        "habilidades": [
+            "Frisk",
+            "Infiltrator",
+            "Telepathy"
+        ]
+    },
+    {
+        "nombre": "Noivern",
+        "habilidades": [
+            "Frisk",
+            "Infiltrator",
+            "Telepathy"
+        ]
+    },
+    {
+        "nombre": "Rowlet",
+        "habilidades": [
+            "Overgrow",
+            "Long reach"
+        ]
+    },
+    {
+        "nombre": "Dartrix",
+        "habilidades": [
+            "Overgrow",
+            "Long reach"
+        ]
+    },
+    {
+        "nombre": "Decidueye",
+        "habilidades": [
+            "Overgrow",
+            "Long reach"
+        ]
+    },
+    {
+        "nombre": "Litten",
+        "habilidades": [
+            "Blaze",
+            "Intimidate"
+        ]
+    },
+    {
+        "nombre": "Torracat",
+        "habilidades": [
+            "Blaze",
+            "Intimidate"
+        ]
+    },
+    {
+        "nombre": "Incineroar",
+        "habilidades": [
+            "Blaze",
+            "Intimidate"
+        ]
+    },
+    {
+        "nombre": "Popplio",
+        "habilidades": [
+            "Torrent",
+            "Liquid voice"
+        ]
+    },
+    {
+        "nombre": "Brionne",
+        "habilidades": [
+            "Torrent",
+            "Liquid voice"
+        ]
+    },
+    {
+        "nombre": "Primarina",
+        "habilidades": [
+            "Torrent",
+            "Liquid voice"
+        ]
+    },
+    {
+        "nombre": "Pikipek",
+        "habilidades": [
+            "Keen eye",
+            "Skill link",
+            "Pickup"
+        ]
+    },
+    {
+        "nombre": "Trumbeak",
+        "habilidades": [
+            "Keen eye",
+            "Skill link",
+            "Pickup"
+        ]
+    },
+    {
+        "nombre": "Toucannon",
+        "habilidades": [
+            "Keen eye",
+            "Skill link",
+            "Sheer force"
+        ]
+    },
+    {
+        "nombre": "Yungoos",
+        "habilidades": [
+            "Stakeout",
+            "Strong jaw",
+            "Adaptability"
+        ]
+    },
+    {
+        "nombre": "Gumshoos",
+        "habilidades": [
+            "Stakeout",
+            "Strong jaw",
+            "Adaptability"
+        ]
+    },
+    {
+        "nombre": "Grubbin",
+        "habilidades": [
+            "Swarm"
+        ]
+    },
+    {
+        "nombre": "Charjabug",
+        "habilidades": [
+            "Battery"
+        ]
+    },
+    {
+        "nombre": "Vikavolt",
+        "habilidades": [
+            "Levitate"
+        ]
+    },
+    {
+        "nombre": "Crabrawler",
+        "habilidades": [
+            "Hyper cutter",
+            "Iron fist",
+            "Anger point"
+        ]
+    },
+    {
+        "nombre": "Crabominable",
+        "habilidades": [
+            "Hyper cutter",
+            "Iron fist",
+            "Anger point"
+        ]
+    },
+    {
+        "nombre": "Oricorio-baile",
+        "habilidades": [
+            "Dancer"
+        ]
+    },
+    {
+        "nombre": "Cutiefly",
+        "habilidades": [
+            "Honey gather",
+            "Shield dust",
+            "Sweet veil"
+        ]
+    },
+    {
+        "nombre": "Ribombee",
+        "habilidades": [
+            "Honey gather",
+            "Shield dust",
+            "Sweet veil"
+        ]
+    },
+    {
+        "nombre": "Rockruff",
+        "habilidades": [
+            "Keen eye",
+            "Vital spirit",
+            "Steadfast"
+        ]
+    },
+    {
+        "nombre": "Lycanroc-midday",
+        "habilidades": [
+            "Keen eye",
+            "Sand rush",
+            "Steadfast"
+        ]
+    },
+    {
+        "nombre": "Wishiwashi-solo",
+        "habilidades": [
+            "Schooling"
+        ]
+    },
+    {
+        "nombre": "Mareanie",
+        "habilidades": [
+            "Merciless",
+            "Limber",
+            "Regenerator"
+        ]
+    },
+    {
+        "nombre": "Toxapex",
+        "habilidades": [
+            "Merciless",
+            "Limber",
+            "Regenerator"
+        ]
+    },
+    {
+        "nombre": "Mudbray",
+        "habilidades": [
+            "Own tempo",
+            "Stamina",
+            "Inner focus"
+        ]
+    },
+    {
+        "nombre": "Mudsdale",
+        "habilidades": [
+            "Own tempo",
+            "Stamina",
+            "Inner focus"
+        ]
+    },
+    {
+        "nombre": "Dewpider",
+        "habilidades": [
+            "Water bubble",
+            "Water absorb"
+        ]
+    },
+    {
+        "nombre": "Araquanid",
+        "habilidades": [
+            "Water bubble",
+            "Water absorb"
+        ]
+    },
+    {
+        "nombre": "Fomantis",
+        "habilidades": [
+            "Leaf guard",
+            "Contrary"
+        ]
+    },
+    {
+        "nombre": "Lurantis",
+        "habilidades": [
+            "Leaf guard",
+            "Contrary"
+        ]
+    },
+    {
+        "nombre": "Morelull",
+        "habilidades": [
+            "Illuminate",
+            "Effect spore",
+            "Rain dish"
+        ]
+    },
+    {
+        "nombre": "Shiinotic",
+        "habilidades": [
+            "Illuminate",
+            "Effect spore",
+            "Rain dish"
+        ]
+    },
+    {
+        "nombre": "Salandit",
+        "habilidades": [
+            "Corrosion",
+            "Oblivious"
+        ]
+    },
+    {
+        "nombre": "Salazzle",
+        "habilidades": [
+            "Corrosion",
+            "Oblivious"
+        ]
+    },
+    {
+        "nombre": "Stufful",
+        "habilidades": [
+            "Fluffy",
+            "Klutz",
+            "Cute charm"
+        ]
+    },
+    {
+        "nombre": "Bewear",
+        "habilidades": [
+            "Fluffy",
+            "Klutz",
+            "Unnerve"
+        ]
+    },
+    {
+        "nombre": "Bounsweet",
+        "habilidades": [
+            "Leaf guard",
+            "Oblivious",
+            "Sweet veil"
+        ]
+    },
+    {
+        "nombre": "Steenee",
+        "habilidades": [
+            "Leaf guard",
+            "Oblivious",
+            "Sweet veil"
+        ]
+    },
+    {
+        "nombre": "Tsareena",
+        "habilidades": [
+            "Leaf guard",
+            "Queenly majesty",
+            "Sweet veil"
+        ]
+    },
+    {
+        "nombre": "Comfey",
+        "habilidades": [
+            "Flower veil",
+            "Triage",
+            "Natural cure"
+        ]
+    },
+    {
+        "nombre": "Oranguru",
+        "habilidades": [
+            "Inner focus",
+            "Telepathy",
+            "Symbiosis"
+        ]
+    },
+    {
+        "nombre": "Passimian",
+        "habilidades": [
+            "Receiver",
+            "Defiant"
+        ]
+    },
+    {
+        "nombre": "Wimpod",
+        "habilidades": [
+            "Wimp out"
+        ]
+    },
+    {
+        "nombre": "Golisopod",
+        "habilidades": [
+            "Emergency exit"
+        ]
+    },
+    {
+        "nombre": "Sandygast",
+        "habilidades": [
+            "Water compaction",
+            "Sand veil"
+        ]
+    },
+    {
+        "nombre": "Palossand",
+        "habilidades": [
+            "Water compaction",
+            "Sand veil"
+        ]
+    },
+    {
+        "nombre": "Pyukumuku",
+        "habilidades": [
+            "Innards out",
+            "Unaware"
+        ]
+    },
+    {
+        "nombre": "Type-null",
+        "habilidades": [
+            "Battle armor"
+        ]
+    },
+    {
+        "nombre": "Silvally",
+        "habilidades": [
+            "Rks system"
+        ]
+    },
+    {
+        "nombre": "Minior-red-meteor",
+        "habilidades": [
+            "Shields down"
+        ]
+    },
+    {
+        "nombre": "Komala",
+        "habilidades": [
+            "Comatose"
+        ]
+    },
+    {
+        "nombre": "Turtonator",
+        "habilidades": [
+            "Shell armor"
+        ]
+    },
+    {
+        "nombre": "Togedemaru",
+        "habilidades": [
+            "Iron barbs",
+            "Lightning rod",
+            "Sturdy"
+        ]
+    },
+    {
+        "nombre": "Mimikyu-disguised",
+        "habilidades": [
+            "Disguise"
+        ]
+    },
+    {
+        "nombre": "Bruxish",
+        "habilidades": [
+            "Dazzling",
+            "Strong jaw",
+            "Wonder skin"
+        ]
+    },
+    {
+        "nombre": "Drampa",
+        "habilidades": [
+            "Berserk",
+            "Sap sipper",
+            "Cloud nine"
+        ]
+    },
+    {
+        "nombre": "Dhelmise",
+        "habilidades": [
+            "Steelworker"
+        ]
+    },
+    {
+        "nombre": "Jangmo-o",
+        "habilidades": [
+            "Bulletproof",
+            "Soundproof",
+            "Overcoat"
+        ]
+    },
+    {
+        "nombre": "Hakamo-o",
+        "habilidades": [
+            "Bulletproof",
+            "Soundproof",
+            "Overcoat"
+        ]
+    },
+    {
+        "nombre": "Kommo-o",
+        "habilidades": [
+            "Bulletproof",
+            "Soundproof",
+            "Overcoat"
+        ]
+    }
+]

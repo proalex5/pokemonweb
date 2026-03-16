@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Panel de Entrenador</title>
+    <link rel="stylesheet" href="styles.css">    
+    <script type="module" src="panel.js"></script>
+</head>
+<body>
+    <header>
+        <h1>HOLA, <span id="display-nombre">...</span></h1>
+        <button onclick="localStorage.clear(); window.location.href='index.html'" style="cursor:pointer">Salir</button>
+    </header>
+    <main id="stats-container" class="card">
+        <div class="stat-grid">
+            <div class="stat-item"><span class="label">Puntos:</span> <span id="display-puntos">0</span></div>
+            <div class="stat-item"><span class="label">Vidas:</span> <span id="display-vidas">0</span></div>
+        </div>
+        <button id="btn-gachapon" class="btn-poke">🎰 GIRAR GACHAPON</button>
+    </main>
+</body>
+</html>
