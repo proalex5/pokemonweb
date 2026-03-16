@@ -24,21 +24,28 @@
         </div>
     </nav>
 
-    <main id="main-view" class="container">
-        <section class="main-card ranking-card">
-            <div class="card-content">
-                <h2>🏆 Ranking Total</h2>
-                <p>Puntos acumulados históricos</p>
-                <button class="btn-action" id="view-ranking-btn">Ver Ranking</button>
+    <main id="main-view" class="container-main">
+        <section class="glass-panel ranking-section">
+            <h2>🏆 Ranking Total</h2>
+            <div class="table-wrapper">
+                <table class="table-modern">
+                    <thead>
+                        <tr>
+                            <th>Entrenador</th>
+                            <th>Torneos</th>
+                            <th>Puntos</th>
+                        </tr>
+                    </thead>
+                    <tbody id="ranking-body">
+                        </tbody>
+                </table>
             </div>
         </section>
 
-        <section class="main-card torneos-card">
-            <div class="card-content">
-                <h2>🎮 Torneos</h2>
-                <p>Clasificaciones por edición</p>
-                <button class="btn-action" id="view-torneos-btn">Ver Torneos</button>
-            </div>
+        <section class="glass-panel torneos-section">
+            <h2>🎮 Torneos Activos</h2>
+            <div id="lista-torneos" class="torneos-grid">
+                </div>
         </section>
     </main>
 
@@ -46,6 +53,7 @@
         <button class="btn-back" id="back-btn">← Volver al inicio</button>
         <div id="dynamic-content"></div>
     </div>
+
 
 </body>
 </html>
